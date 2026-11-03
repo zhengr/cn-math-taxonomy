@@ -1,0 +1,34 @@
+name: Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build dist
+        run: |
+          mkdir -p dist/data
+          cp index.html sw.js manifest.webmanifest dist/
+          [ -f .nojekyll ] && cp .nojekyll dist/
+          cp -a assets explore diagnose children dist/
+          rm -f dist/diagnose/README.md
+          cp data/topics.json \
+             data/dependencies.json \
+             data/cn-curriculum-standards.json \
+             data/questions.json \
+             data/id-aliases.json \
+             dist/data/
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name cn-math-taxonomy --branch main --commit-dirty=true
+          wranglerVersion: "4.86.0"
