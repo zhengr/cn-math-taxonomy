@@ -1,0 +1,48 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Allow only one concurrent deployment; cancel in-progress runs.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build dist
+        run: |
+          mkdir -p dist/data
+          cp index.html sw.js manifest.webmanifest dist/
+          [ -f .nojekyll ] && cp .nojekyll dist/
+          cp -a assets explore diagnose children dist/
+          rm -f dist/diagnose/README.md
+          cp data/topics.json \
+             data/dependencies.json \
+             data/cn-curriculum-standards.json \
+             data/questions.json \
+             data/id-aliases.json \
+             dist/data/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
