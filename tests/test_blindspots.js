@@ -89,6 +89,10 @@ test('diagnoseHref 带学科参数', () => {
     'diagnose/?subject=history&target=cnh_j001');
   assert.equal(api.diagnoseHref(['cng_j001']),
     'diagnose/?subject=geography&target=cng_j001');
+  assert.equal(api.diagnoseHref(['cnb_j001']),
+    'diagnose/?subject=biology&target=cnb_j001');
+  assert.equal(api.diagnoseHref(['cnk_j001']),
+    'diagnose/?subject=chemistry&target=cnk_j001');
 });
 
 test('subject 过滤与未完成会话答错合并', () => {

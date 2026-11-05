@@ -3,7 +3,7 @@
 
 可以重复运行：先去掉已有的 cng_ 知识点和 cgs- 课标条目，再按脚本重新写入。
 不改数学、英语、物理、语文、科学、道德与法治、历史的知识点、先修、题目和课标。
-先修边只对地理边做传递约简。
+先修边只对地理边做传递约简。登记过的示意图在编译题目时写入 figure。
 
 用法：python3 scripts/geo_build.py
 """
@@ -22,6 +22,7 @@ import geo_g7  # noqa: E402,F401
 import geo_g8  # noqa: E402,F401
 import geo_edges  # noqa: E402,F401
 from geo_lib import HARD, CODE_OF, STANDARD_ROWS, TOPICS, chapter, check_question, materialise_questions  # noqa: E402
+from geo_figs import figure_for  # noqa: E402
 from verify_questions import verify_all  # noqa: E402
 
 CHAPTER_RE = re.compile(r"^([一二三四五六七八九])年级([上下全])册 (第\d+单元|预备单元\d) (.+)$")
@@ -211,6 +212,9 @@ def main():
         diag_answer = None
         for n, item in enumerate(made, start=1):
             q, shown = build_question(tid, n, item, slot=i + n)
+            fig = figure_for(q)
+            if fig:
+                q["figure"] = fig
             built.append(q)
             if n == 1:
                 diag_answer = shown
@@ -308,7 +312,7 @@ def main():
         standards_out[k] = v
 
     snapshots = {}
-    for prefix in ("cnm_", "cne_", "cnp_", "cnc_", "cns_", "cnd_", "cnh_"):
+    for prefix in ("cnm_", "cne_", "cnp_", "cnc_", "cns_", "cnd_", "cnh_", "cnb_"):
         snapshots[prefix] = [(t["id"], t["name"]) for t in base_topics if str(t["id"]).startswith(prefix)]
 
     n_hard = sum(1 for e in geo_edges_out if e["strength"] == "hard")
@@ -339,7 +343,7 @@ def main():
     if again_topics != base_topics or again_deps != base_deps or again_qs != base_questions or again_items != base_items:
         print("其他学科数据在写回后发生了变化", file=sys.stderr)
         return 1
-    labels = {"cnm_": "数学", "cne_": "英语", "cnp_": "物理", "cnc_": "语文", "cns_": "科学", "cnd_": "道德与法治", "cnh_": "历史"}
+    labels = {"cnm_": "数学", "cne_": "英语", "cnp_": "物理", "cnc_": "语文", "cns_": "科学", "cnd_": "道德与法治", "cnh_": "历史", "cnb_": "生物"}
     for prefix, label in labels.items():
         if [(t["id"], t["name"]) for t in again_t if str(t["id"]).startswith(prefix)] != snapshots[prefix]:
             print("%s知识点 id 或名称变了" % label, file=sys.stderr)
@@ -351,8 +355,8 @@ def main():
     if again_s.get("geography", {}).get("title") != "义务教育地理课程标准（2022年版）":
         print("地理课标标题不正确", file=sys.stderr)
         return 1
-    print("数学 %d、英语 %d、物理 %d、语文 %d、科学 %d、道德与法治 %d、历史 %d 个知识点的 id 与名称未改" % tuple(
-        len(snapshots[p]) for p in ("cnm_", "cne_", "cnp_", "cnc_", "cns_", "cnd_", "cnh_")))
+    print("数学 %d、英语 %d、物理 %d、语文 %d、科学 %d、道德与法治 %d、历史 %d、生物 %d 个知识点的 id 与名称未改" % tuple(
+        len(snapshots[p]) for p in ("cnm_", "cne_", "cnp_", "cnc_", "cns_", "cnd_", "cnh_", "cnb_")))
     return 0
 
 
