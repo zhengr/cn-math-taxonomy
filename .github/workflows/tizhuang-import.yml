@@ -10,7 +10,7 @@ on:
       grades:
         description: "年级(逗号分隔 1-14, 如 7,8,9; 留空=全部年级)"
         required: false
-        default: ""
+        default: "4"
       per_topic:
         description: "每个知识点本次最多导入几题"
         required: false
