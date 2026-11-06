@@ -11,3 +11,4 @@ __pycache__/
 PROMPT*.md
 chain.sh
 .cf-token-workers
+data/_tizhuang_import/raw/

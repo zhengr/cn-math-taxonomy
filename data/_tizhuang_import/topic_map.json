@@ -1,0 +1,5899 @@
+{
+ "mapping": {
+  "cnm_p001": {
+   "name": "1到5各数的认识",
+   "grade": 1,
+   "grade_id": 111,
+   "knowledge_id": 22002,
+   "tz_name": "数的认识"
+  },
+  "cnm_p004": {
+   "name": "5以内数的分与合",
+   "grade": 1,
+   "grade_id": 111,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p005": {
+   "name": "0的认识",
+   "grade": 1,
+   "grade_id": 111,
+   "knowledge_id": 28005,
+   "tz_name": "0的认识"
+  },
+  "cnm_p006": {
+   "name": "5以内的加法",
+   "grade": 1,
+   "grade_id": 111,
+   "knowledge_id": 200639,
+   "tz_name": "5以内的加法"
+  },
+  "cnm_p007": {
+   "name": "5以内的减法",
+   "grade": 1,
+   "grade_id": 111,
+   "knowledge_id": 200640,
+   "tz_name": "5以内的减法"
+  },
+  "cnm_p008": {
+   "name": "6～10各数的认识",
+   "grade": 1,
+   "grade_id": 111,
+   "knowledge_id": 22002,
+   "tz_name": "数的认识"
+  },
+  "cnm_p009": {
+   "name": "10以内数的比较",
+   "grade": 1,
+   "grade_id": 111,
+   "knowledge_id": 28008,
+   "tz_name": "10以内数的比较大小"
+  },
+  "cnm_p014": {
+   "name": "认识长方体、正方体、圆柱和球",
+   "grade": 1,
+   "grade_id": 111,
+   "knowledge_id": 200854,
+   "tz_name": "圆"
+  },
+  "cnm_p015": {
+   "name": "上下前后左右",
+   "grade": 1,
+   "grade_id": 111,
+   "knowledge_id": 200657,
+   "tz_name": "前后"
+  },
+  "cnm_p016": {
+   "name": "11～20各数的认识",
+   "grade": 1,
+   "grade_id": 111,
+   "knowledge_id": 22002,
+   "tz_name": "数的认识"
+  },
+  "cnm_p018": {
+   "name": "20以内不进位加法",
+   "grade": 1,
+   "grade_id": 111,
+   "knowledge_id": 21141,
+   "tz_name": "进位加法"
+  },
+  "cnm_p020": {
+   "name": "9加几",
+   "grade": 1,
+   "grade_id": 111,
+   "knowledge_id": 200663,
+   "tz_name": "9加几的进位加法"
+  },
+  "cnm_p022": {
+   "name": "找一找、分一分",
+   "grade": 1,
+   "grade_id": 111,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p023": {
+   "name": "认识平面图形",
+   "grade": 1,
+   "grade_id": 112,
+   "knowledge_id": 20236,
+   "tz_name": "平面图形"
+  },
+  "cnm_p024": {
+   "name": "图形的拼组",
+   "grade": 1,
+   "grade_id": 112,
+   "knowledge_id": 21213,
+   "tz_name": "图形的拼组"
+  },
+  "cnm_p025": {
+   "name": "十几减9",
+   "grade": 1,
+   "grade_id": 112,
+   "knowledge_id": 200668,
+   "tz_name": "十几减9的退位减法"
+  },
+  "cnm_p027": {
+   "name": "十几减5、4、3、2",
+   "grade": 1,
+   "grade_id": 112,
+   "knowledge_id": 200672,
+   "tz_name": "十几减5、4、3、2的退位减法"
+  },
+  "cnm_p029": {
+   "name": "数的顺序、比较大小",
+   "grade": 1,
+   "grade_id": 112,
+   "knowledge_id": 21295,
+   "tz_name": "比较大小"
+  },
+  "cnm_p035": {
+   "name": "部分与整体",
+   "grade": 1,
+   "grade_id": 112,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p218": {
+   "name": "求比一个数多（少）几的数",
+   "grade": 1,
+   "grade_id": 112,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_p036": {
+   "name": "认识人民币",
+   "grade": 1,
+   "grade_id": 112,
+   "knowledge_id": 28220,
+   "tz_name": "认识人民币及简单的计算"
+  },
+  "cnm_p037": {
+   "name": "分类与整理",
+   "grade": 2,
+   "grade_id": 121,
+   "knowledge_id": 28269,
+   "tz_name": "分类"
+  },
+  "cnm_p039": {
+   "name": "2～6的乘法口诀",
+   "grade": 2,
+   "grade_id": 121,
+   "knowledge_id": 200689,
+   "tz_name": "6的乘法口诀"
+  },
+  "cnm_p057": {
+   "name": "乘加、乘减",
+   "grade": 2,
+   "grade_id": 121,
+   "knowledge_id": 202526,
+   "tz_name": "表外乘加、乘减"
+  },
+  "cnm_p046": {
+   "name": "用2～6的乘法口诀求商",
+   "grade": 2,
+   "grade_id": 121,
+   "knowledge_id": 200688,
+   "tz_name": "用2-6的乘法口诀求商"
+  },
+  "cnm_p045": {
+   "name": "寻找、测量、运用身体尺",
+   "grade": 2,
+   "grade_id": 121,
+   "knowledge_id": 22004,
+   "tz_name": "测量"
+  },
+  "cnm_p042": {
+   "name": "7～9的乘法口诀",
+   "grade": 2,
+   "grade_id": 121,
+   "knowledge_id": 200692,
+   "tz_name": "9的乘法口诀"
+  },
+  "cnm_p044": {
+   "name": "用7～9的乘法口诀求商",
+   "grade": 2,
+   "grade_id": 121,
+   "knowledge_id": 200694,
+   "tz_name": "用7-9的乘法口诀求商"
+  },
+  "cnm_p061": {
+   "name": "认识时间",
+   "grade": 2,
+   "grade_id": 122,
+   "knowledge_id": 28225,
+   "tz_name": "认识时间"
+  },
+  "cnm_p062": {
+   "name": "时、分、秒的进率",
+   "grade": 2,
+   "grade_id": 122,
+   "knowledge_id": 200701,
+   "tz_name": "秒"
+  },
+  "cnm_p063": {
+   "name": "我与时间的故事",
+   "grade": 2,
+   "grade_id": 122,
+   "knowledge_id": 200703,
+   "tz_name": "时"
+  },
+  "cnm_p050": {
+   "name": "有余数的除法",
+   "grade": 2,
+   "grade_id": 122,
+   "knowledge_id": 21148,
+   "tz_name": "有余数的除法"
+  },
+  "cnm_p053": {
+   "name": "1000以内数的认识",
+   "grade": 2,
+   "grade_id": 122,
+   "knowledge_id": 22002,
+   "tz_name": "数的认识"
+  },
+  "cnm_p054": {
+   "name": "万以内数的大小比较",
+   "grade": 2,
+   "grade_id": 122,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_p066": {
+   "name": "加法的估算",
+   "grade": 2,
+   "grade_id": 122,
+   "knowledge_id": 28051,
+   "tz_name": "加法的估算"
+  },
+  "cnm_p071": {
+   "name": "加法",
+   "grade": 2,
+   "grade_id": 122,
+   "knowledge_id": 21141,
+   "tz_name": "进位加法"
+  },
+  "cnm_p072": {
+   "name": "减法",
+   "grade": 2,
+   "grade_id": 122,
+   "knowledge_id": 21142,
+   "tz_name": "退位减法"
+  },
+  "cnm_p220": {
+   "name": "加减法各部分间的关系",
+   "grade": 2,
+   "grade_id": 122,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p067": {
+   "name": "毫米的认识",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 200698,
+   "tz_name": "毫米"
+  },
+  "cnm_p068": {
+   "name": "分米的认识及单位换算",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p069": {
+   "name": "千米的认识及单位换算",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 200699,
+   "tz_name": "千米"
+  },
+  "cnm_p056": {
+   "name": "认识质量单位",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 200836,
+   "tz_name": "质量单位"
+  },
+  "cnm_p070": {
+   "name": "吨的认识",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 200611,
+   "tz_name": "吨"
+  },
+  "cnm_p224": {
+   "name": "等量代换",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 201216,
+   "tz_name": "等量代换"
+  },
+  "cnm_p076": {
+   "name": "认识数字编码",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 21183,
+   "tz_name": "数字编码"
+  },
+  "cnm_p225": {
+   "name": "角的认识",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_p101": {
+   "name": "直角、锐角、钝角",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_p079": {
+   "name": "认识几分之一",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 200732,
+   "tz_name": "几分之一"
+  },
+  "cnm_p226": {
+   "name": "认识几分之几",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p227": {
+   "name": "简单的分数大小比较",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 20503,
+   "tz_name": "分数大小比较"
+  },
+  "cnm_p080": {
+   "name": "同分母分数的加减法",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 200812,
+   "tz_name": "同分母分数的加减法"
+  },
+  "cnm_p081": {
+   "name": "集合图里的重叠",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 25001,
+   "tz_name": "集合"
+  },
+  "cnm_p229": {
+   "name": "多边形",
+   "grade": 3,
+   "grade_id": 132,
+   "knowledge_id": 20313,
+   "tz_name": "多边形"
+  },
+  "cnm_p078": {
+   "name": "周长",
+   "grade": 3,
+   "grade_id": 132,
+   "knowledge_id": 28179,
+   "tz_name": "圆的周长"
+  },
+  "cnm_p088": {
+   "name": "面积和面积单位",
+   "grade": 3,
+   "grade_id": 132,
+   "knowledge_id": 20586,
+   "tz_name": "面积和面积单位"
+  },
+  "cnm_p089": {
+   "name": "长方形和正方形的面积",
+   "grade": 3,
+   "grade_id": 132,
+   "knowledge_id": 28184,
+   "tz_name": "正方形的面积"
+  },
+  "cnm_p090": {
+   "name": "面积单位间的进率",
+   "grade": 3,
+   "grade_id": 132,
+   "knowledge_id": 20587,
+   "tz_name": "面积单位间的进率及单位换算"
+  },
+  "cnm_p092": {
+   "name": "作息时间表中的秘密",
+   "grade": 3,
+   "grade_id": 132,
+   "knowledge_id": 200703,
+   "tz_name": "时"
+  },
+  "cnm_p096": {
+   "name": "亿以内数的认识",
+   "grade": 4,
+   "grade_id": 141,
+   "knowledge_id": 22002,
+   "tz_name": "数的认识"
+  },
+  "cnm_p100": {
+   "name": "角的度量",
+   "grade": 4,
+   "grade_id": 141,
+   "knowledge_id": 21233,
+   "tz_name": "角的度量"
+  },
+  "cnm_p232": {
+   "name": "平角、周角和角的分类",
+   "grade": 4,
+   "grade_id": 141,
+   "knowledge_id": 28269,
+   "tz_name": "分类"
+  },
+  "cnm_p086": {
+   "name": "两位数乘两位数",
+   "grade": 4,
+   "grade_id": 141,
+   "knowledge_id": 200610,
+   "tz_name": "两位数乘两位数"
+  },
+  "cnm_p111": {
+   "name": "常见数量关系",
+   "grade": 4,
+   "grade_id": 141,
+   "knowledge_id": 202537,
+   "tz_name": "数量关系"
+  },
+  "cnm_p103": {
+   "name": "垂直",
+   "grade": 4,
+   "grade_id": 141,
+   "knowledge_id": 200740,
+   "tz_name": "相交与垂直"
+  },
+  "cnm_p104": {
+   "name": "平行",
+   "grade": 4,
+   "grade_id": 141,
+   "knowledge_id": 200741,
+   "tz_name": "平行"
+  },
+  "cnm_p105": {
+   "name": "平行四边形和梯形的特征",
+   "grade": 4,
+   "grade_id": 141,
+   "knowledge_id": 200841,
+   "tz_name": "四边形"
+  },
+  "cnm_p234": {
+   "name": "用尺规画平行线",
+   "grade": 4,
+   "grade_id": 141,
+   "knowledge_id": 20266,
+   "tz_name": "平行线"
+  },
+  "cnm_p108": {
+   "name": "条形统计图",
+   "grade": 4,
+   "grade_id": 141,
+   "knowledge_id": 28236,
+   "tz_name": "条形统计图"
+  },
+  "cnm_p130": {
+   "name": "复式条形统计图",
+   "grade": 4,
+   "grade_id": 141,
+   "knowledge_id": 28236,
+   "tz_name": "条形统计图"
+  },
+  "cnm_p131": {
+   "name": "鸡兔同笼",
+   "grade": 4,
+   "grade_id": 141,
+   "knowledge_id": 21375,
+   "tz_name": "鸡兔同笼"
+  },
+  "cnm_p110": {
+   "name": "四则运算各部分间的关系",
+   "grade": 4,
+   "grade_id": 142,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p112": {
+   "name": "整数四则混合运算",
+   "grade": 4,
+   "grade_id": 142,
+   "knowledge_id": 21150,
+   "tz_name": "整数四则混合运算"
+  },
+  "cnm_p113": {
+   "name": "从不同方向观察物体",
+   "grade": 4,
+   "grade_id": 142,
+   "knowledge_id": 200008,
+   "tz_name": "从不同方向观察物体和几何体"
+  },
+  "cnm_p114": {
+   "name": "加法交换律和结合律",
+   "grade": 4,
+   "grade_id": 142,
+   "knowledge_id": 200745,
+   "tz_name": "加法交换律"
+  },
+  "cnm_p115": {
+   "name": "乘法交换律和结合律",
+   "grade": 4,
+   "grade_id": 142,
+   "knowledge_id": 200746,
+   "tz_name": "乘法交换律"
+  },
+  "cnm_p116": {
+   "name": "乘法分配律",
+   "grade": 4,
+   "grade_id": 142,
+   "knowledge_id": 200749,
+   "tz_name": "乘法分配律"
+  },
+  "cnm_p117": {
+   "name": "用运算律简便计算",
+   "grade": 4,
+   "grade_id": 142,
+   "knowledge_id": 109000,
+   "tz_name": "计算"
+  },
+  "cnm_p119": {
+   "name": "比较小数的大小",
+   "grade": 4,
+   "grade_id": 142,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_p122": {
+   "name": "三角形的分类",
+   "grade": 4,
+   "grade_id": 142,
+   "knowledge_id": 28157,
+   "tz_name": "三角形的分类"
+  },
+  "cnm_p123": {
+   "name": "三角形的三边关系",
+   "grade": 4,
+   "grade_id": 142,
+   "knowledge_id": 20275,
+   "tz_name": "三角形的三边关系"
+  },
+  "cnm_p124": {
+   "name": "三角形的内角和",
+   "grade": 4,
+   "grade_id": 142,
+   "knowledge_id": 21225,
+   "tz_name": "三角形的内角和"
+  },
+  "cnm_p127": {
+   "name": "轴对称",
+   "grade": 4,
+   "grade_id": 142,
+   "knowledge_id": 200436,
+   "tz_name": "轴对称"
+  },
+  "cnm_p128": {
+   "name": "平移",
+   "grade": 4,
+   "grade_id": 142,
+   "knowledge_id": 200013,
+   "tz_name": "平移"
+  },
+  "cnm_p129": {
+   "name": "平均数",
+   "grade": 4,
+   "grade_id": 142,
+   "knowledge_id": 21377,
+   "tz_name": "平均数问题"
+  },
+  "cnm_p107": {
+   "name": "商不变的规律",
+   "grade": 4,
+   "grade_id": 141,
+   "knowledge_id": 200823,
+   "tz_name": "商不变的规律"
+  },
+  "cnm_p132": {
+   "name": "小数乘整数",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 200756,
+   "tz_name": "小数乘整数"
+  },
+  "cnm_p133": {
+   "name": "小数乘小数",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 200757,
+   "tz_name": "小数乘小数"
+  },
+  "cnm_p134": {
+   "name": "小数乘法的应用",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 20528,
+   "tz_name": "小数乘法"
+  },
+  "cnm_p137": {
+   "name": "除数是整数的小数除法",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 20529,
+   "tz_name": "小数除法"
+  },
+  "cnm_p139": {
+   "name": "小数除法的应用",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 20529,
+   "tz_name": "小数除法"
+  },
+  "cnm_p238": {
+   "name": "图形的运动",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 200828,
+   "tz_name": "图形的运动"
+  },
+  "cnm_p142": {
+   "name": "用字母表示数",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 20533,
+   "tz_name": "用字母表示数"
+  },
+  "cnm_p144": {
+   "name": "等式的性质",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 200759,
+   "tz_name": "等式的性质"
+  },
+  "cnm_p098": {
+   "name": "公顷和平方千米",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 200775,
+   "tz_name": "平方千米"
+  },
+  "cnm_p240": {
+   "name": "平行四边形的底和高",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 200841,
+   "tz_name": "四边形"
+  },
+  "cnm_p147": {
+   "name": "平行四边形的面积",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 20577,
+   "tz_name": "平行四边形的面积"
+  },
+  "cnm_p148": {
+   "name": "三角形的面积",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 28186,
+   "tz_name": "三角形的面积"
+  },
+  "cnm_p149": {
+   "name": "梯形的面积",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 20578,
+   "tz_name": "梯形的面积"
+  },
+  "cnm_p150": {
+   "name": "组合图形的面积",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 20581,
+   "tz_name": "组合图形的面积"
+  },
+  "cnm_p140": {
+   "name": "可能性",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 20605,
+   "tz_name": "可能性"
+  },
+  "cnm_p141": {
+   "name": "可能性的大小",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 20475,
+   "tz_name": "可能性的大小"
+  },
+  "cnm_p143": {
+   "name": "方程的意义",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 20536,
+   "tz_name": "方程的意义"
+  },
+  "cnm_p151": {
+   "name": "植树问题",
+   "grade": 5,
+   "grade_id": 151,
+   "knowledge_id": 21372,
+   "tz_name": "植树问题"
+  },
+  "cnm_p152": {
+   "name": "根据三个方向辨认物体",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 20599,
+   "tz_name": "方向"
+  },
+  "cnm_p153": {
+   "name": "因数和倍数",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 20488,
+   "tz_name": "因数和倍数的意义"
+  },
+  "cnm_p158": {
+   "name": "最大公因数",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 25707,
+   "tz_name": "最大公因数"
+  },
+  "cnm_p159": {
+   "name": "最小公倍数",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 25708,
+   "tz_name": "最小公倍数"
+  },
+  "cnm_p163": {
+   "name": "长方体和正方体的体积",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 20583,
+   "tz_name": "长方体和正方体的体积"
+  },
+  "cnm_p164": {
+   "name": "容积",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 200783,
+   "tz_name": "容积的认识"
+  },
+  "cnm_p165": {
+   "name": "分数的意义",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p166": {
+   "name": "真分数和假分数",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p167": {
+   "name": "分数的基本性质",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 20498,
+   "tz_name": "分数的基本性质"
+  },
+  "cnm_p168": {
+   "name": "约分",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 200771,
+   "tz_name": "约分"
+  },
+  "cnm_p169": {
+   "name": "分数的大小比较",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 21347,
+   "tz_name": "分数的大小比较"
+  },
+  "cnm_p170": {
+   "name": "分数和小数互化",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p171": {
+   "name": "旋转",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 200012,
+   "tz_name": "旋转"
+  },
+  "cnm_p172": {
+   "name": "通分",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 200772,
+   "tz_name": "通分"
+  },
+  "cnm_p173": {
+   "name": "异分母分数加减",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 200776,
+   "tz_name": "异分母分数加减法"
+  },
+  "cnm_p174": {
+   "name": "分数加减混合",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p175": {
+   "name": "折线统计图",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 20451,
+   "tz_name": "折线统计图"
+  },
+  "cnm_p176": {
+   "name": "找次品",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 21184,
+   "tz_name": "找次品"
+  },
+  "cnm_p136": {
+   "name": "用有序数对确定位置",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 20177,
+   "tz_name": "有序数对"
+  },
+  "cnm_p180": {
+   "name": "用方向和距离确定位置",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 20596,
+   "tz_name": "位置"
+  },
+  "cnm_p181": {
+   "name": "描述简单路线图",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 20600,
+   "tz_name": "路线图"
+  },
+  "cnm_p177": {
+   "name": "分数乘整数",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 200779,
+   "tz_name": "分数乘整数"
+  },
+  "cnm_p178": {
+   "name": "一个数乘分数",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p179": {
+   "name": "分数乘法的应用",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 202730,
+   "tz_name": "分数乘法的应用"
+  },
+  "cnm_p182": {
+   "name": "分数除以整数",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 200785,
+   "tz_name": "分数除以整数"
+  },
+  "cnm_p183": {
+   "name": "分数除法",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 20506,
+   "tz_name": "分数除法"
+  },
+  "cnm_p184": {
+   "name": "分数除法的应用",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 202731,
+   "tz_name": "分数除法的应用"
+  },
+  "cnm_p188": {
+   "name": "圆的认识",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 200854,
+   "tz_name": "圆"
+  },
+  "cnm_p189": {
+   "name": "圆周率",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 200854,
+   "tz_name": "圆"
+  },
+  "cnm_p190": {
+   "name": "圆的周长",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 28179,
+   "tz_name": "圆的周长"
+  },
+  "cnm_p191": {
+   "name": "圆的周长的应用",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 28179,
+   "tz_name": "圆的周长"
+  },
+  "cnm_p192": {
+   "name": "圆的面积",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 28190,
+   "tz_name": "圆的面积"
+  },
+  "cnm_p193": {
+   "name": "扇形的认识",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 28166,
+   "tz_name": "扇形的认识"
+  },
+  "cnm_p194": {
+   "name": "百分数的意义",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p195": {
+   "name": "百分数与分数、小数互化",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p196": {
+   "name": "求一个数的百分之几",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p197": {
+   "name": "求百分率",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p198": {
+   "name": "已知一个数的百分之几求这个数",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p203": {
+   "name": "折扣",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 200792,
+   "tz_name": "折扣"
+  },
+  "cnm_p204": {
+   "name": "利率",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 200619,
+   "tz_name": "利率"
+  },
+  "cnm_p205": {
+   "name": "求一个数比另一个数多百分之几（增长率）",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_p243": {
+   "name": "同分母分数加减",
+   "grade": 5,
+   "grade_id": 152,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p246": {
+   "name": "倒数的认识",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 21132,
+   "tz_name": "倒数的认识"
+  },
+  "cnm_p247": {
+   "name": "分数、小数混合运算及运算律",
+   "grade": 6,
+   "grade_id": 161,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p206": {
+   "name": "圆柱的认识",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 202719,
+   "tz_name": "圆柱的认识"
+  },
+  "cnm_p207": {
+   "name": "圆柱的体积",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 202722,
+   "tz_name": "圆柱的体积"
+  },
+  "cnm_p208": {
+   "name": "圆柱的表面积",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 202721,
+   "tz_name": "圆柱的表面积"
+  },
+  "cnm_p248": {
+   "name": "圆锥的认识",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 202723,
+   "tz_name": "圆锥的认识"
+  },
+  "cnm_p209": {
+   "name": "圆锥的体积",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 20585,
+   "tz_name": "圆锥的体积"
+  },
+  "cnm_p185": {
+   "name": "比的意义",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 20541,
+   "tz_name": "比的意义"
+  },
+  "cnm_p186": {
+   "name": "化简比",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 202706,
+   "tz_name": "化简比"
+  },
+  "cnm_p187": {
+   "name": "按比分配",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_p210": {
+   "name": "比例的意义和基本性质",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 21209,
+   "tz_name": "比例的意义和基本性质"
+  },
+  "cnm_p211": {
+   "name": "解比例",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 21210,
+   "tz_name": "解比例"
+  },
+  "cnm_p212": {
+   "name": "比例尺",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 21263,
+   "tz_name": "比例尺"
+  },
+  "cnm_p249": {
+   "name": "图形的放大与缩小",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 20549,
+   "tz_name": "图形的放大与缩小"
+  },
+  "cnm_p213": {
+   "name": "正比例",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 200794,
+   "tz_name": "正比例"
+  },
+  "cnm_p214": {
+   "name": "反比例",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 200827,
+   "tz_name": "反比例"
+  },
+  "cnm_p215": {
+   "name": "用比例解决实际问题",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 200763,
+   "tz_name": "比例"
+  },
+  "cnm_p251": {
+   "name": "5、4、3、2加几",
+   "grade": 1,
+   "grade_id": 111,
+   "knowledge_id": 200666,
+   "tz_name": "5，4，3，2加几的进位加法"
+  },
+  "cnm_p255": {
+   "name": "七巧板",
+   "grade": 1,
+   "grade_id": 112,
+   "knowledge_id": 20268,
+   "tz_name": "七巧板"
+  },
+  "cnm_p257": {
+   "name": "读法和写法",
+   "grade": 1,
+   "grade_id": 112,
+   "knowledge_id": 21133,
+   "tz_name": "整数的读法和写法"
+  },
+  "cnm_p258": {
+   "name": "100的认识",
+   "grade": 1,
+   "grade_id": 112,
+   "knowledge_id": 28005,
+   "tz_name": "0的认识"
+  },
+  "cnm_p261": {
+   "name": "逐层分类",
+   "grade": 2,
+   "grade_id": 121,
+   "knowledge_id": 28269,
+   "tz_name": "分类"
+  },
+  "cnm_p263": {
+   "name": "平均分（包含）",
+   "grade": 2,
+   "grade_id": 121,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p264": {
+   "name": "平均分（等分）",
+   "grade": 2,
+   "grade_id": 121,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p269": {
+   "name": "10000以内数的认识",
+   "grade": 2,
+   "grade_id": 122,
+   "knowledge_id": 22002,
+   "tz_name": "数的认识"
+  },
+  "cnm_p272": {
+   "name": "连环画分享会",
+   "grade": 2,
+   "grade_id": 122,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p273": {
+   "name": "我的时间小书",
+   "grade": 2,
+   "grade_id": 122,
+   "knowledge_id": 200703,
+   "tz_name": "时"
+  },
+  "cnm_p277": {
+   "name": "用圆规比较线段的长短",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 20242,
+   "tz_name": "比较线段的长短"
+  },
+  "cnm_p278": {
+   "name": "认识二分之一",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_p279": {
+   "name": "估测距离",
+   "grade": 3,
+   "grade_id": 131,
+   "knowledge_id": 21237,
+   "tz_name": "估测"
+  },
+  "cnm_p281": {
+   "name": "剪纸",
+   "grade": 3,
+   "grade_id": 132,
+   "knowledge_id": 21117,
+   "tz_name": "剪纸问题"
+  },
+  "cnm_p284": {
+   "name": "小数的大小比较",
+   "grade": 3,
+   "grade_id": 132,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_p199": {
+   "name": "扇形统计图",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 28241,
+   "tz_name": "扇形统计图"
+  },
+  "cnm_p200": {
+   "name": "数与形",
+   "grade": 6,
+   "grade_id": 162,
+   "knowledge_id": 20560,
+   "tz_name": "数与形结合的规律"
+  },
+  "cnm_001": {
+   "name": "正数与负数的概念",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20003,
+   "tz_name": "正数与负数"
+  },
+  "cnm_003": {
+   "name": "有理数的分类",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20002,
+   "tz_name": "有理数"
+  },
+  "cnm_004": {
+   "name": "数轴",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20005,
+   "tz_name": "数轴"
+  },
+  "cnm_005": {
+   "name": "在数轴上表示有理数",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20002,
+   "tz_name": "有理数"
+  },
+  "cnm_006": {
+   "name": "相反数",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20006,
+   "tz_name": "相反数"
+  },
+  "cnm_007": {
+   "name": "绝对值的概念与几何意义",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 108556,
+   "tz_name": "几何"
+  },
+  "cnm_008": {
+   "name": "绝对值的化简与计算",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 109000,
+   "tz_name": "计算"
+  },
+  "cnm_009": {
+   "name": "有理数的大小比较",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20009,
+   "tz_name": "有理数的大小比较"
+  },
+  "cnm_010": {
+   "name": "有理数的加法法则",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20010,
+   "tz_name": "有理数的加法"
+  },
+  "cnm_012": {
+   "name": "有理数的减法法则",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20002,
+   "tz_name": "有理数"
+  },
+  "cnm_013": {
+   "name": "有理数的加减混合运算",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20014,
+   "tz_name": "有理数的加减混合运算"
+  },
+  "cnm_014": {
+   "name": "有理数的乘法法则",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20015,
+   "tz_name": "有理数的乘法"
+  },
+  "cnm_016": {
+   "name": "倒数",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20502,
+   "tz_name": "倒数"
+  },
+  "cnm_017": {
+   "name": "有理数的除法",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20019,
+   "tz_name": "有理数的除法"
+  },
+  "cnm_018": {
+   "name": "有理数的加减乘除混合运算",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20002,
+   "tz_name": "有理数"
+  },
+  "cnm_019": {
+   "name": "乘方的概念",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 21294,
+   "tz_name": "乘方"
+  },
+  "cnm_020": {
+   "name": "乘方的运算与符号规律",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 21294,
+   "tz_name": "乘方"
+  },
+  "cnm_021": {
+   "name": "含乘方的有理数混合运算",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20002,
+   "tz_name": "有理数"
+  },
+  "cnm_022": {
+   "name": "科学记数法",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20028,
+   "tz_name": "科学记数法与有效数字"
+  },
+  "cnm_023": {
+   "name": "近似数与有效数字",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20027,
+   "tz_name": "近似数与有效数字"
+  },
+  "cnm_024": {
+   "name": "进位制的认识与探究",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 25334,
+   "tz_name": "进位制"
+  },
+  "cnm_025": {
+   "name": "用字母表示数",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20533,
+   "tz_name": "用字母表示数"
+  },
+  "cnm_026": {
+   "name": "代数式的概念与书写规范",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20045,
+   "tz_name": "代数式"
+  },
+  "cnm_027": {
+   "name": "列代数式",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20046,
+   "tz_name": "列代数式"
+  },
+  "cnm_028": {
+   "name": "解释代数式的实际意义",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20045,
+   "tz_name": "代数式"
+  },
+  "cnm_030": {
+   "name": "用代数式表示规律",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20045,
+   "tz_name": "代数式"
+  },
+  "cnm_029": {
+   "name": "代数式的值",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20045,
+   "tz_name": "代数式"
+  },
+  "cnm_031": {
+   "name": "单项式",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20048,
+   "tz_name": "单项式"
+  },
+  "cnm_032": {
+   "name": "多项式与整式",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20049,
+   "tz_name": "多项式"
+  },
+  "cnm_033": {
+   "name": "同类项",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20051,
+   "tz_name": "同类项"
+  },
+  "cnm_034": {
+   "name": "合并同类项",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20052,
+   "tz_name": "合并同类项"
+  },
+  "cnm_036": {
+   "name": "整式的加减",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20043,
+   "tz_name": "整式"
+  },
+  "cnm_037": {
+   "name": "整式化简求值",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20056,
+   "tz_name": "整式化简求值"
+  },
+  "cnm_038": {
+   "name": "整式加减的应用",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20043,
+   "tz_name": "整式"
+  },
+  "cnm_039": {
+   "name": "方程与方程的解",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20117,
+   "tz_name": "方程的解"
+  },
+  "cnm_040": {
+   "name": "等式的性质",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 200759,
+   "tz_name": "等式的性质"
+  },
+  "cnm_041": {
+   "name": "一元一次方程的概念",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20114,
+   "tz_name": "一元一次方程"
+  },
+  "cnm_042": {
+   "name": "移项与合并同类项解方程",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20052,
+   "tz_name": "合并同类项"
+  },
+  "cnm_043": {
+   "name": "含括号的一元一次方程",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20114,
+   "tz_name": "一元一次方程"
+  },
+  "cnm_044": {
+   "name": "含分母的一元一次方程",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_045": {
+   "name": "列一元一次方程解应用题的步骤",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20114,
+   "tz_name": "一元一次方程"
+  },
+  "cnm_046": {
+   "name": "配套与工程问题",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 21355,
+   "tz_name": "工程问题"
+  },
+  "cnm_047": {
+   "name": "行程问题（相遇与追及）",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 109005,
+   "tz_name": "行程问题"
+  },
+  "cnm_049": {
+   "name": "分段计费与方案选择",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_050": {
+   "name": "立体图形与平面图形",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20236,
+   "tz_name": "平面图形"
+  },
+  "cnm_051": {
+   "name": "从不同方向看与立体图形的展开图",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20244,
+   "tz_name": "立体图形的展开图"
+  },
+  "cnm_052": {
+   "name": "点、线、面、体",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20246,
+   "tz_name": "点、线、面、体"
+  },
+  "cnm_053": {
+   "name": "直线、射线、线段",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20238,
+   "tz_name": "直线、射线、线段的定义"
+  },
+  "cnm_055": {
+   "name": "线段的比较与运算",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_056": {
+   "name": "角的概念与表示",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_057": {
+   "name": "度、分、秒及其换算",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 200701,
+   "tz_name": "秒"
+  },
+  "cnm_058": {
+   "name": "角的比较与运算（含角平分线）",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20254,
+   "tz_name": "角平分线"
+  },
+  "cnm_059": {
+   "name": "余角和补角",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 20257,
+   "tz_name": "余角和补角"
+  },
+  "cnm_060": {
+   "name": "同角（等角）的余角、补角相等",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_061": {
+   "name": "综合与实践：设计学校田径运动会比赛场地",
+   "grade": 7,
+   "grade_id": 201,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_062": {
+   "name": "邻补角",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_063": {
+   "name": "对顶角及其性质",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_064": {
+   "name": "垂线",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20264,
+   "tz_name": "垂线"
+  },
+  "cnm_065": {
+   "name": "垂线段最短与点到直线的距离",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20265,
+   "tz_name": "点到直线的距离"
+  },
+  "cnm_066": {
+   "name": "同位角、内错角、同旁内角",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20269,
+   "tz_name": "同位角、内错角、同旁内角"
+  },
+  "cnm_067": {
+   "name": "平行线与平行公理",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20266,
+   "tz_name": "平行线"
+  },
+  "cnm_068": {
+   "name": "平行线的判定",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20270,
+   "tz_name": "平行线的判定"
+  },
+  "cnm_069": {
+   "name": "平行线的性质",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20271,
+   "tz_name": "平行线的性质"
+  },
+  "cnm_070": {
+   "name": "平行线判定与性质的综合应用",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20266,
+   "tz_name": "平行线"
+  },
+  "cnm_071": {
+   "name": "定义、命题与定理",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20282,
+   "tz_name": "命题与定理"
+  },
+  "cnm_072": {
+   "name": "平移的概念与性质",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 200013,
+   "tz_name": "平移"
+  },
+  "cnm_073": {
+   "name": "平移作图",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 200013,
+   "tz_name": "平移"
+  },
+  "cnm_074": {
+   "name": "平方根与算术平方根",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20032,
+   "tz_name": "算术平方根"
+  },
+  "cnm_075": {
+   "name": "开平方与平方根的求法",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20031,
+   "tz_name": "平方根"
+  },
+  "cnm_076": {
+   "name": "立方根",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20034,
+   "tz_name": "立方根"
+  },
+  "cnm_077": {
+   "name": "无理数",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20036,
+   "tz_name": "无理数"
+  },
+  "cnm_078": {
+   "name": "实数的分类与数轴表示",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 28269,
+   "tz_name": "分类"
+  },
+  "cnm_079": {
+   "name": "算术平方根的估值与大小比较",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20032,
+   "tz_name": "算术平方根"
+  },
+  "cnm_080": {
+   "name": "实数的运算",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20042,
+   "tz_name": "实数的运算"
+  },
+  "cnm_081": {
+   "name": "有序数对",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20177,
+   "tz_name": "有序数对"
+  },
+  "cnm_082": {
+   "name": "平面直角坐标系与点的坐标",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20179,
+   "tz_name": "点的坐标"
+  },
+  "cnm_083": {
+   "name": "象限与坐标轴上点的坐标特征",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20179,
+   "tz_name": "点的坐标"
+  },
+  "cnm_084": {
+   "name": "用坐标描述简单几何图形",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 109007,
+   "tz_name": "几何图形"
+  },
+  "cnm_085": {
+   "name": "用坐标表示地理位置",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20596,
+   "tz_name": "位置"
+  },
+  "cnm_086": {
+   "name": "用坐标表示平移",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 200013,
+   "tz_name": "平移"
+  },
+  "cnm_088": {
+   "name": "二元一次方程组及其解",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20126,
+   "tz_name": "二元一次方程组"
+  },
+  "cnm_089": {
+   "name": "代入消元法",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20133,
+   "tz_name": "解二元一次方程组——代入消元法"
+  },
+  "cnm_090": {
+   "name": "加减消元法",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20134,
+   "tz_name": "解二元一次方程组——加减消元法"
+  },
+  "cnm_091": {
+   "name": "列二元一次方程组解应用题",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20126,
+   "tz_name": "二元一次方程组"
+  },
+  "cnm_093": {
+   "name": "三元一次方程组",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20137,
+   "tz_name": "解三元一次方程组"
+  },
+  "cnm_094": {
+   "name": "不等式及其解集",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 108830,
+   "tz_name": "不等式"
+  },
+  "cnm_095": {
+   "name": "在数轴上表示不等式的解集",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20161,
+   "tz_name": "在数轴上表示不等式的解集"
+  },
+  "cnm_096": {
+   "name": "不等式的性质",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20162,
+   "tz_name": "不等式的性质"
+  },
+  "cnm_097": {
+   "name": "一元一次不等式的解法",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 108830,
+   "tz_name": "不等式"
+  },
+  "cnm_098": {
+   "name": "一元一次不等式的应用",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20166,
+   "tz_name": "一元一次不等式的应用"
+  },
+  "cnm_099": {
+   "name": "一元一次不等式组的解法",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 108830,
+   "tz_name": "不等式"
+  },
+  "cnm_100": {
+   "name": "不等式组的应用",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20173,
+   "tz_name": "一元一次不等式组的应用"
+  },
+  "cnm_300": {
+   "name": "统计活动的基本过程",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 200829,
+   "tz_name": "统计"
+  },
+  "cnm_102": {
+   "name": "全面调查与抽样调查",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20444,
+   "tz_name": "全面调查与抽样调查"
+  },
+  "cnm_298": {
+   "name": "简单随机抽样的实施（抽签法与随机数）",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 25238,
+   "tz_name": "简单随机抽样"
+  },
+  "cnm_299": {
+   "name": "用样本百分比估计总体数量",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_293": {
+   "name": "数据的分类整理与划记法、统计表",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 20448,
+   "tz_name": "统计表"
+  },
+  "cnm_295": {
+   "name": "扇形图的绘制：百分比与圆心角的换算",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_296": {
+   "name": "统计图的误导与偏差辨识",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 200842,
+   "tz_name": "统计图"
+  },
+  "cnm_106": {
+   "name": "频数分布表与数据分组",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_107": {
+   "name": "频数分布直方图",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_297": {
+   "name": "频率（相对频数）的计算与意义",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 109000,
+   "tz_name": "计算"
+  },
+  "cnm_301": {
+   "name": "频数分布直方图的读图与分析",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_109": {
+   "name": "综合与实践：日昼时长规律的探究",
+   "grade": 7,
+   "grade_id": 202,
+   "knowledge_id": 200703,
+   "tz_name": "时"
+  },
+  "cnm_110": {
+   "name": "三角形的概念与分类",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 200850,
+   "tz_name": "三角形"
+  },
+  "cnm_111": {
+   "name": "三角形三边关系",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 200850,
+   "tz_name": "三角形"
+  },
+  "cnm_112": {
+   "name": "三角形的高",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 21242,
+   "tz_name": "作三角形的高"
+  },
+  "cnm_113": {
+   "name": "三角形的中线",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 200850,
+   "tz_name": "三角形"
+  },
+  "cnm_114": {
+   "name": "三角形的角平分线",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20254,
+   "tz_name": "角平分线"
+  },
+  "cnm_115": {
+   "name": "三角形内角和定理",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20280,
+   "tz_name": "三角形内角和定理"
+  },
+  "cnm_116": {
+   "name": "直角三角形的两个锐角互余",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 200850,
+   "tz_name": "三角形"
+  },
+  "cnm_117": {
+   "name": "三角形的外角及其性质",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 200850,
+   "tz_name": "三角形"
+  },
+  "cnm_118": {
+   "name": "几何证明的基本格式",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 108556,
+   "tz_name": "几何"
+  },
+  "cnm_119": {
+   "name": "综合与实践：确定匀质薄板的重心位置",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20596,
+   "tz_name": "位置"
+  },
+  "cnm_120": {
+   "name": "全等图形与全等三角形",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20287,
+   "tz_name": "全等图形"
+  },
+  "cnm_121": {
+   "name": "全等三角形的性质",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20289,
+   "tz_name": "全等三角形的性质"
+  },
+  "cnm_123": {
+   "name": "全等判定：边角边（SAS）",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_124": {
+   "name": "全等判定：角边角（ASA）与角角边（AAS）",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_125": {
+   "name": "全等判定：斜边、直角边（HL）",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_127": {
+   "name": "基本尺规作图：作等角与角平分线",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20254,
+   "tz_name": "角平分线"
+  },
+  "cnm_128": {
+   "name": "角平分线的性质",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20283,
+   "tz_name": "角平分线的性质"
+  },
+  "cnm_129": {
+   "name": "角平分线的判定",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20254,
+   "tz_name": "角平分线"
+  },
+  "cnm_130": {
+   "name": "全等三角形的常见辅助线与模型",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 200850,
+   "tz_name": "三角形"
+  },
+  "cnm_131": {
+   "name": "轴对称图形与两个图形成轴对称",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20384,
+   "tz_name": "轴对称图形"
+  },
+  "cnm_132": {
+   "name": "轴对称的性质",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20386,
+   "tz_name": "轴对称的性质"
+  },
+  "cnm_133": {
+   "name": "线段垂直平分线的性质与判定",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20285,
+   "tz_name": "线段垂直平分线的性质"
+  },
+  "cnm_134": {
+   "name": "作线段的垂直平分线",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_135": {
+   "name": "画轴对称图形",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20384,
+   "tz_name": "轴对称图形"
+  },
+  "cnm_136": {
+   "name": "坐标系中的轴对称",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 200436,
+   "tz_name": "轴对称"
+  },
+  "cnm_137": {
+   "name": "等腰三角形的性质",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20295,
+   "tz_name": "等腰三角形的性质"
+  },
+  "cnm_138": {
+   "name": "等腰三角形的判定",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20296,
+   "tz_name": "等腰三角形的判定定理"
+  },
+  "cnm_139": {
+   "name": "等边三角形的性质与判定",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20299,
+   "tz_name": "等边三角形的性质"
+  },
+  "cnm_140": {
+   "name": "含 30° 角的直角三角形的性质",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20311,
+   "tz_name": "含30°角的直角三角形"
+  },
+  "cnm_142": {
+   "name": "同底数幂的乘法",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20057,
+   "tz_name": "同底数幂的乘法"
+  },
+  "cnm_143": {
+   "name": "幂的乘方与积的乘方",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20058,
+   "tz_name": "幂的乘方与积的乘方"
+  },
+  "cnm_144": {
+   "name": "单项式乘单项式",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20060,
+   "tz_name": "单项式乘单项式"
+  },
+  "cnm_145": {
+   "name": "单项式乘多项式",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20061,
+   "tz_name": "单项式乘多项式"
+  },
+  "cnm_146": {
+   "name": "多项式乘多项式",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20062,
+   "tz_name": "多项式乘多项式"
+  },
+  "cnm_147": {
+   "name": "平方差公式",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20063,
+   "tz_name": "平方差公式"
+  },
+  "cnm_148": {
+   "name": "完全平方公式",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20064,
+   "tz_name": "完全平方公式"
+  },
+  "cnm_150": {
+   "name": "因式分解的概念",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20071,
+   "tz_name": "因式分解"
+  },
+  "cnm_155": {
+   "name": "因式分解的应用",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20080,
+   "tz_name": "因式分解的应用"
+  },
+  "cnm_151": {
+   "name": "提公因式法",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20075,
+   "tz_name": "提公因式法"
+  },
+  "cnm_152": {
+   "name": "公式法：平方差",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20467,
+   "tz_name": "方差"
+  },
+  "cnm_154": {
+   "name": "综合运用因式分解",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20071,
+   "tz_name": "因式分解"
+  },
+  "cnm_156": {
+   "name": "分式的概念",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_157": {
+   "name": "分式的基本性质",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20084,
+   "tz_name": "分式的基本性质"
+  },
+  "cnm_158": {
+   "name": "分式的约分与最简分式",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20090,
+   "tz_name": "最简分式"
+  },
+  "cnm_159": {
+   "name": "分式的通分",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 200772,
+   "tz_name": "通分"
+  },
+  "cnm_160": {
+   "name": "分式的乘除",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20092,
+   "tz_name": "分式的乘除法"
+  },
+  "cnm_161": {
+   "name": "分式的加减",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 21062,
+   "tz_name": "分式的加减法"
+  },
+  "cnm_162": {
+   "name": "分式的混合运算与化简求值",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20097,
+   "tz_name": "分式的混合运算"
+  },
+  "cnm_163": {
+   "name": "同底数幂的除法",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20066,
+   "tz_name": "同底数幂的除法"
+  },
+  "cnm_164": {
+   "name": "零指数幂、负整数指数幂与科学记数法",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 101162,
+   "tz_name": "负整数指数幂"
+  },
+  "cnm_165": {
+   "name": "分式方程的解法与增根",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 21070,
+   "tz_name": "分式方程的解"
+  },
+  "cnm_166": {
+   "name": "分式方程的应用",
+   "grade": 8,
+   "grade_id": 301,
+   "knowledge_id": 20157,
+   "tz_name": "分式方程的应用"
+  },
+  "cnm_167": {
+   "name": "二次根式的概念与有意义的条件",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20100,
+   "tz_name": "二次根式"
+  },
+  "cnm_168": {
+   "name": "二次根式的性质",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20103,
+   "tz_name": "二次根式的性质与化简"
+  },
+  "cnm_169": {
+   "name": "二次根式的乘法",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20100,
+   "tz_name": "二次根式"
+  },
+  "cnm_170": {
+   "name": "二次根式的除法",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20100,
+   "tz_name": "二次根式"
+  },
+  "cnm_171": {
+   "name": "最简二次根式与分母有理化",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20105,
+   "tz_name": "最简二次根式"
+  },
+  "cnm_172": {
+   "name": "二次根式的加减",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20109,
+   "tz_name": "二次根式的加减法"
+  },
+  "cnm_173": {
+   "name": "二次根式的混合运算",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20112,
+   "tz_name": "二次根式的混合运算"
+  },
+  "cnm_174": {
+   "name": "勾股定理",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20301,
+   "tz_name": "勾股定理"
+  },
+  "cnm_175": {
+   "name": "勾股定理的证明",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20303,
+   "tz_name": "勾股定理的证明"
+  },
+  "cnm_176": {
+   "name": "勾股定理的应用",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20305,
+   "tz_name": "勾股定理的应用"
+  },
+  "cnm_179": {
+   "name": "用勾股定理在数轴上表示无理数",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20301,
+   "tz_name": "勾股定理"
+  },
+  "cnm_177": {
+   "name": "勾股定理的逆定理",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20306,
+   "tz_name": "勾股定理的逆定理"
+  },
+  "cnm_178": {
+   "name": "勾股定理逆定理的应用",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20301,
+   "tz_name": "勾股定理"
+  },
+  "cnm_180": {
+   "name": "多边形及其对角线",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20313,
+   "tz_name": "多边形"
+  },
+  "cnm_181": {
+   "name": "多边形的内角和",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 21389,
+   "tz_name": "多边形的内角和"
+  },
+  "cnm_182": {
+   "name": "多边形的外角和",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20313,
+   "tz_name": "多边形"
+  },
+  "cnm_183": {
+   "name": "平行四边形的性质",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20319,
+   "tz_name": "平行四边形的性质"
+  },
+  "cnm_184": {
+   "name": "平行四边形的判定",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20320,
+   "tz_name": "平行四边形的判定"
+  },
+  "cnm_185": {
+   "name": "三角形的中位线",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20277,
+   "tz_name": "三角形的中位线定理"
+  },
+  "cnm_186": {
+   "name": "矩形的性质",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20322,
+   "tz_name": "矩形的性质"
+  },
+  "cnm_187": {
+   "name": "直角三角形斜边上的中线",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20310,
+   "tz_name": "直角三角形斜边上的中线"
+  },
+  "cnm_188": {
+   "name": "矩形的判定",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20323,
+   "tz_name": "矩形的判定"
+  },
+  "cnm_189": {
+   "name": "菱形的性质",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20325,
+   "tz_name": "菱形的性质"
+  },
+  "cnm_190": {
+   "name": "菱形的判定",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20326,
+   "tz_name": "菱形的判定"
+  },
+  "cnm_191": {
+   "name": "正方形的性质与判定",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20328,
+   "tz_name": "正方形的性质"
+  },
+  "cnm_192": {
+   "name": "四边形中的折叠与动点问题",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 200841,
+   "tz_name": "四边形"
+  },
+  "cnm_194": {
+   "name": "函数的概念",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 25040,
+   "tz_name": "函数的概念及其构成要素"
+  },
+  "cnm_195": {
+   "name": "自变量的取值范围",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20187,
+   "tz_name": "函数自变量的取值范围"
+  },
+  "cnm_196": {
+   "name": "函数值",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20188,
+   "tz_name": "函数值"
+  },
+  "cnm_197": {
+   "name": "函数的图象",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 25063,
+   "tz_name": "函数的图象"
+  },
+  "cnm_198": {
+   "name": "函数的三种表示方法",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_199": {
+   "name": "用函数刻画实际变化规律",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_200": {
+   "name": "正比例函数",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 200794,
+   "tz_name": "正比例"
+  },
+  "cnm_201": {
+   "name": "一次函数的概念",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20183,
+   "tz_name": "一次函数"
+  },
+  "cnm_202": {
+   "name": "一次函数的图象与画法",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20197,
+   "tz_name": "一次函数的图象"
+  },
+  "cnm_203": {
+   "name": "一次函数的性质",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20198,
+   "tz_name": "一次函数的性质"
+  },
+  "cnm_204": {
+   "name": "一次函数图象的平移",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 200013,
+   "tz_name": "平移"
+  },
+  "cnm_205": {
+   "name": "待定系数法求一次函数解析式",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20202,
+   "tz_name": "待定系数法求一次函数解析式"
+  },
+  "cnm_206": {
+   "name": "一次函数与一元一次方程",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20203,
+   "tz_name": "一次函数与一元一次方程"
+  },
+  "cnm_207": {
+   "name": "一次函数与一元一次不等式",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20204,
+   "tz_name": "一次函数与一元一次不等式"
+  },
+  "cnm_208": {
+   "name": "一次函数与二元一次方程组",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20205,
+   "tz_name": "一次函数与二元一次方程（组）"
+  },
+  "cnm_209": {
+   "name": "实际问题与一次函数",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20183,
+   "tz_name": "一次函数"
+  },
+  "cnm_211": {
+   "name": "平均数",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 21377,
+   "tz_name": "平均数问题"
+  },
+  "cnm_212": {
+   "name": "加权平均数",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20456,
+   "tz_name": "加权平均数"
+  },
+  "cnm_213": {
+   "name": "中位数与众数",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20458,
+   "tz_name": "中位数"
+  },
+  "cnm_214": {
+   "name": "集中趋势统计量的选择",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 200829,
+   "tz_name": "统计"
+  },
+  "cnm_303": {
+   "name": "极端值对平均数与中位数的影响",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20458,
+   "tz_name": "中位数"
+  },
+  "cnm_215": {
+   "name": "极差、方差与标准差",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 25248,
+   "tz_name": "极差、方差与标准差"
+  },
+  "cnm_304": {
+   "name": "用方差比较两组数据的稳定性",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20467,
+   "tz_name": "方差"
+  },
+  "cnm_306": {
+   "name": "用样本方差估计总体的稳定性",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 20467,
+   "tz_name": "方差"
+  },
+  "cnm_216": {
+   "name": "数据的四分位数",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_305": {
+   "name": "箱线图的读取与比较",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_217": {
+   "name": "数据的分组与由分组数据估计平均数",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_218": {
+   "name": "综合与实践：学生体质健康调查与分析",
+   "grade": 8,
+   "grade_id": 302,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_219": {
+   "name": "一元二次方程的概念",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20139,
+   "tz_name": "一元二次方程"
+  },
+  "cnm_220": {
+   "name": "直接开平方法",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20142,
+   "tz_name": "解一元二次方程——直接开平方法"
+  },
+  "cnm_221": {
+   "name": "配方法",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 25688,
+   "tz_name": "参数配方法"
+  },
+  "cnm_223": {
+   "name": "根的判别式",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20147,
+   "tz_name": "根的判别式"
+  },
+  "cnm_224": {
+   "name": "因式分解法",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20071,
+   "tz_name": "因式分解"
+  },
+  "cnm_225": {
+   "name": "一元二次方程解法的选择",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20139,
+   "tz_name": "一元二次方程"
+  },
+  "cnm_226": {
+   "name": "一元二次方程根与系数的关系（拓展）",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 25942,
+   "tz_name": "根与系数的关系"
+  },
+  "cnm_229": {
+   "name": "二次函数的概念",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20219,
+   "tz_name": "二次函数"
+  },
+  "cnm_231": {
+   "name": "y=a(x-h)²+k 的图象与平移",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 200013,
+   "tz_name": "平移"
+  },
+  "cnm_232": {
+   "name": "y=ax²+bx+c 的图象与性质",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 107122,
+   "tz_name": "y=|ax2+bx+c|的图象与性质"
+  },
+  "cnm_233": {
+   "name": "待定系数法求二次函数解析式",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20219,
+   "tz_name": "二次函数"
+  },
+  "cnm_234": {
+   "name": "二次函数与一元二次方程",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20139,
+   "tz_name": "一元二次方程"
+  },
+  "cnm_235": {
+   "name": "二次函数的最值",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20226,
+   "tz_name": "二次函数的最值"
+  },
+  "cnm_236": {
+   "name": "实际问题与二次函数",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20219,
+   "tz_name": "二次函数"
+  },
+  "cnm_237": {
+   "name": "反比例函数的概念",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 200827,
+   "tz_name": "反比例"
+  },
+  "cnm_238": {
+   "name": "反比例函数的图象与性质",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20210,
+   "tz_name": "反比例函数的图象"
+  },
+  "cnm_239": {
+   "name": "反比例函数中 k 的几何意义",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 200827,
+   "tz_name": "反比例"
+  },
+  "cnm_240": {
+   "name": "待定系数法求反比例函数解析式",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 200827,
+   "tz_name": "反比例"
+  },
+  "cnm_241": {
+   "name": "反比例函数与一次函数的综合",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 200827,
+   "tz_name": "反比例"
+  },
+  "cnm_242": {
+   "name": "实际问题与反比例函数",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 200827,
+   "tz_name": "反比例"
+  },
+  "cnm_243": {
+   "name": "综合与实践：高铁列车运行中的数量关系",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 202537,
+   "tz_name": "数量关系"
+  },
+  "cnm_244": {
+   "name": "图形的旋转",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 108548,
+   "tz_name": "图形的旋转"
+  },
+  "cnm_245": {
+   "name": "旋转的性质",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20400,
+   "tz_name": "旋转的性质"
+  },
+  "cnm_246": {
+   "name": "旋转作图",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 200012,
+   "tz_name": "旋转"
+  },
+  "cnm_247": {
+   "name": "旋转变换在证明与计算中的应用",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 25592,
+   "tz_name": "旋转变换"
+  },
+  "cnm_248": {
+   "name": "中心对称与中心对称图形",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20403,
+   "tz_name": "中心对称图形"
+  },
+  "cnm_249": {
+   "name": "关于原点对称的点的坐标",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20404,
+   "tz_name": "关于原点对称的点的坐标"
+  },
+  "cnm_250": {
+   "name": "圆的有关概念",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 200854,
+   "tz_name": "圆"
+  },
+  "cnm_251": {
+   "name": "垂径定理",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20361,
+   "tz_name": "垂径定理"
+  },
+  "cnm_252": {
+   "name": "弧、弦、圆心角的关系",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_253": {
+   "name": "圆周角定理",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20364,
+   "tz_name": "圆周角定理I"
+  },
+  "cnm_254": {
+   "name": "直径所对的圆周角",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_255": {
+   "name": "圆内接四边形",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 200841,
+   "tz_name": "四边形"
+  },
+  "cnm_256": {
+   "name": "弧长",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 100263,
+   "tz_name": "弧长"
+  },
+  "cnm_257": {
+   "name": "扇形面积",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 25360,
+   "tz_name": "扇形面积公式"
+  },
+  "cnm_258": {
+   "name": "圆锥的侧面积与全面积",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 200854,
+   "tz_name": "圆"
+  },
+  "cnm_259": {
+   "name": "点与圆的位置关系",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20367,
+   "tz_name": "点与圆的位置关系I"
+  },
+  "cnm_260": {
+   "name": "直线与圆的位置关系",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20370,
+   "tz_name": "直线与圆的位置关系I"
+  },
+  "cnm_261": {
+   "name": "切线的判定",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20372,
+   "tz_name": "切线的判定"
+  },
+  "cnm_262": {
+   "name": "切线的性质",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20371,
+   "tz_name": "切线的性质"
+  },
+  "cnm_263": {
+   "name": "切线长定理",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20373,
+   "tz_name": "切线长定理"
+  },
+  "cnm_264": {
+   "name": "三角形的内切圆",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20374,
+   "tz_name": "三角形的内切圆与内心"
+  },
+  "cnm_265": {
+   "name": "三角形的外接圆",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20369,
+   "tz_name": "三角形的外接圆与外心"
+  },
+  "cnm_266": {
+   "name": "正多边形与圆",
+   "grade": 9,
+   "grade_id": 401,
+   "knowledge_id": 20313,
+   "tz_name": "多边形"
+  },
+  "cnm_268": {
+   "name": "成比例线段",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 20409,
+   "tz_name": "比例线段"
+  },
+  "cnm_269": {
+   "name": "平行线分线段成比例",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 21124,
+   "tz_name": "平行线分线段成比例"
+  },
+  "cnm_270": {
+   "name": "相似多边形",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 20313,
+   "tz_name": "多边形"
+  },
+  "cnm_271": {
+   "name": "相似三角形的判定",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 20414,
+   "tz_name": "相似三角形的判定I"
+  },
+  "cnm_272": {
+   "name": "相似三角形的性质",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 20412,
+   "tz_name": "相似三角形的性质I"
+  },
+  "cnm_273": {
+   "name": "相似三角形的基本模型",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 200850,
+   "tz_name": "三角形"
+  },
+  "cnm_274": {
+   "name": "相似三角形的实际应用",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 200850,
+   "tz_name": "三角形"
+  },
+  "cnm_275": {
+   "name": "位似",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 20419,
+   "tz_name": "位似变换"
+  },
+  "cnm_276": {
+   "name": "锐角三角函数的定义",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 20430,
+   "tz_name": "锐角三角函数的定义"
+  },
+  "cnm_277": {
+   "name": "特殊角的三角函数值与计算",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 20435,
+   "tz_name": "特殊角的三角函数值"
+  },
+  "cnm_278": {
+   "name": "解直角三角形",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 20437,
+   "tz_name": "解直角三角形"
+  },
+  "cnm_279": {
+   "name": "仰角、俯角与方向角问题",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 20251,
+   "tz_name": "方向角"
+  },
+  "cnm_280": {
+   "name": "坡度与坡角问题",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_281": {
+   "name": "平行投影与中心投影",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 20427,
+   "tz_name": "中心投影"
+  },
+  "cnm_283": {
+   "name": "三视图及由三视图想象立体图形",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 20243,
+   "tz_name": "立体图形"
+  },
+  "cnm_307": {
+   "name": "事件发生可能性大小的比较与排序",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_285": {
+   "name": "概率的意义与等可能事件的概率",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 25275,
+   "tz_name": "等可能事件的概率"
+  },
+  "cnm_308": {
+   "name": "概率的取值范围与概率的性质",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 201243,
+   "tz_name": "概率"
+  },
+  "cnm_309": {
+   "name": "等可能性与古典概型的判断",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 20605,
+   "tz_name": "可能性"
+  },
+  "cnm_286": {
+   "name": "用列举法求概率",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 201243,
+   "tz_name": "概率"
+  },
+  "cnm_287": {
+   "name": "用列表法与树状图求概率",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 201243,
+   "tz_name": "概率"
+  },
+  "cnm_289": {
+   "name": "概率的应用与游戏的公平性",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 25296,
+   "tz_name": "概率的应用"
+  },
+  "cnm_310": {
+   "name": "放回与不放回摸球问题的区分",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_311": {
+   "name": "三步及以上试验用树状图求概率",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 201243,
+   "tz_name": "概率"
+  },
+  "cnm_313": {
+   "name": "概率与统计图表综合问题",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 200842,
+   "tz_name": "统计图"
+  },
+  "cnm_288": {
+   "name": "用频率估计概率",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 201243,
+   "tz_name": "概率"
+  },
+  "cnm_312": {
+   "name": "用频率估计合格率、发芽率等实际概率",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 201243,
+   "tz_name": "概率"
+  },
+  "cnm_314": {
+   "name": "对概率意义的常见误解辨析",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 201243,
+   "tz_name": "概率"
+  },
+  "cnm_h001": {
+   "name": "集合的含义",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25002,
+   "tz_name": "集合的含义"
+  },
+  "cnm_h002": {
+   "name": "元素与集合的关系",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25001,
+   "tz_name": "集合"
+  },
+  "cnm_h003": {
+   "name": "列举法",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25280,
+   "tz_name": "列举法计算基本事件数及事件发生的概率"
+  },
+  "cnm_h006": {
+   "name": "子集与集合相等",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25001,
+   "tz_name": "集合"
+  },
+  "cnm_h007": {
+   "name": "真子集",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25007,
+   "tz_name": "子集与真子集"
+  },
+  "cnm_h008": {
+   "name": "交集",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25014,
+   "tz_name": "交集及其运算"
+  },
+  "cnm_h009": {
+   "name": "并集",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25013,
+   "tz_name": "并集及其运算"
+  },
+  "cnm_h010": {
+   "name": "补集",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25015,
+   "tz_name": "补集及其运算"
+  },
+  "cnm_h012": {
+   "name": "充分条件与必要条件",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25024,
+   "tz_name": "充分条件"
+  },
+  "cnm_h013": {
+   "name": "充要条件",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25026,
+   "tz_name": "充要条件"
+  },
+  "cnm_h014": {
+   "name": "全称量词与存在量词",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25032,
+   "tz_name": "全称量词"
+  },
+  "cnm_h015": {
+   "name": "含一个量词的命题的否定",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25036,
+   "tz_name": "命题的否定"
+  },
+  "cnm_h016": {
+   "name": "等式性质与不等式的概念",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 108830,
+   "tz_name": "不等式"
+  },
+  "cnm_h017": {
+   "name": "不等式的解集",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20160,
+   "tz_name": "不等式的解集"
+  },
+  "cnm_h018": {
+   "name": "不等式的性质",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20162,
+   "tz_name": "不等式的性质"
+  },
+  "cnm_h019": {
+   "name": "作差法比较大小",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 21295,
+   "tz_name": "比较大小"
+  },
+  "cnm_h020": {
+   "name": "不等式的整数解",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20165,
+   "tz_name": "一元一次不等式的整数解"
+  },
+  "cnm_h021": {
+   "name": "基本不等式",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25161,
+   "tz_name": "基本不等式"
+  },
+  "cnm_h022": {
+   "name": "基本不等式求最值",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25161,
+   "tz_name": "基本不等式"
+  },
+  "cnm_h023": {
+   "name": "二次函数与一元二次方程",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20139,
+   "tz_name": "一元二次方程"
+  },
+  "cnm_h024": {
+   "name": "一元二次不等式",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 21031,
+   "tz_name": "一元二次不等式"
+  },
+  "cnm_h025": {
+   "name": "含参的二次不等式",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 108830,
+   "tz_name": "不等式"
+  },
+  "cnm_h026": {
+   "name": "不等式的实际应用",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25166,
+   "tz_name": "不等式的实际应用"
+  },
+  "cnm_h027": {
+   "name": "函数的概念",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25040,
+   "tz_name": "函数的概念及其构成要素"
+  },
+  "cnm_h028": {
+   "name": "函数的定义域",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20185,
+   "tz_name": "函数的定义"
+  },
+  "cnm_h029": {
+   "name": "函数的值域",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25043,
+   "tz_name": "函数的值域"
+  },
+  "cnm_h030": {
+   "name": "函数的表示方法",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20189,
+   "tz_name": "函数的表示方法I"
+  },
+  "cnm_h031": {
+   "name": "分段函数",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20191,
+   "tz_name": "分段函数"
+  },
+  "cnm_h032": {
+   "name": "函数的单调性",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25393,
+   "tz_name": "正弦函数的单调性"
+  },
+  "cnm_h034": {
+   "name": "函数的最大（小）值",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_h035": {
+   "name": "函数的奇偶性",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25391,
+   "tz_name": "正弦函数的奇偶性"
+  },
+  "cnm_h037": {
+   "name": "幂函数",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25104,
+   "tz_name": "幂函数的图像"
+  },
+  "cnm_h038": {
+   "name": "用函数描述简单对应",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_h039": {
+   "name": "分数指数幂",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25076,
+   "tz_name": "分数指数幂"
+  },
+  "cnm_h040": {
+   "name": "指数幂的运算",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25078,
+   "tz_name": "有理数指数幂的运算性质"
+  },
+  "cnm_h041": {
+   "name": "指数函数的概念",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_h042": {
+   "name": "指数函数的性质",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_h043": {
+   "name": "对数的概念",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25088,
+   "tz_name": "对数的概念"
+  },
+  "cnm_h044": {
+   "name": "对数的运算性质",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25090,
+   "tz_name": "对数的运算性质"
+  },
+  "cnm_h045": {
+   "name": "换底公式",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25091,
+   "tz_name": "换底公式的应用"
+  },
+  "cnm_h046": {
+   "name": "对数函数",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25092,
+   "tz_name": "对数函数的定义"
+  },
+  "cnm_h047": {
+   "name": "对数函数的性质",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_h048": {
+   "name": "指数与对数互为反函数",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25100,
+   "tz_name": "反函数"
+  },
+  "cnm_h049": {
+   "name": "函数零点",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25111,
+   "tz_name": "函数零点的判定定理"
+  },
+  "cnm_h050": {
+   "name": "二分法",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_h051": {
+   "name": "选择函数模型",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_h052": {
+   "name": "函数模型的拟合与预测",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_h054": {
+   "name": "用函数模型解决实际问题",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_h055": {
+   "name": "任意角",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_h056": {
+   "name": "终边相同的角",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25354,
+   "tz_name": "终边相同的角"
+  },
+  "cnm_h057": {
+   "name": "弧度制",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25356,
+   "tz_name": "弧度制"
+  },
+  "cnm_h058": {
+   "name": "角度与弧度的换算",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_h059": {
+   "name": "弧长公式",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25359,
+   "tz_name": "弧长公式"
+  },
+  "cnm_h060": {
+   "name": "三角函数的定义",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25363,
+   "tz_name": "三角函数的定义域"
+  },
+  "cnm_h061": {
+   "name": "三角函数的符号",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_h062": {
+   "name": "同角三角函数关系",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_h063": {
+   "name": "由一个三角函数求其他值",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_h064": {
+   "name": "诱导公式",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25366,
+   "tz_name": "诱导公式一"
+  },
+  "cnm_h066": {
+   "name": "正弦函数的图象与性质",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25390,
+   "tz_name": "正弦函数的图象"
+  },
+  "cnm_h067": {
+   "name": "正弦函数的单调区间",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_h068": {
+   "name": "余弦函数的图象与性质",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25395,
+   "tz_name": "余弦函数的图象"
+  },
+  "cnm_h069": {
+   "name": "正切函数",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25400,
+   "tz_name": "正切函数的图象"
+  },
+  "cnm_h070": {
+   "name": "两角差的正弦",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_h071": {
+   "name": "两角和的正弦与余弦",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_h072": {
+   "name": "两角和与差的正切",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 25379,
+   "tz_name": "两角和与差的正切函数"
+  },
+  "cnm_h073": {
+   "name": "二倍角公式",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_h074": {
+   "name": "简单的三角恒等变换",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_h075": {
+   "name": "正弦型函数",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_h076": {
+   "name": "正弦型函数的参数",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_h077": {
+   "name": "由条件确定正弦型函数",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_h078": {
+   "name": "三角函数的应用",
+   "grade": 10,
+   "grade_id": 501,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_h079": {
+   "name": "平面向量的概念",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25193,
+   "tz_name": "平面向量"
+  },
+  "cnm_h083": {
+   "name": "向量数乘",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25207,
+   "tz_name": "向量数乘的运算及其几何意义"
+  },
+  "cnm_h085": {
+   "name": "平面向量基本定理",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25193,
+   "tz_name": "平面向量"
+  },
+  "cnm_h087": {
+   "name": "坐标运算",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25212,
+   "tz_name": "平面向量的坐标运算"
+  },
+  "cnm_h088": {
+   "name": "向量数量积",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25220,
+   "tz_name": "平面向量数量积的运算"
+  },
+  "cnm_h090": {
+   "name": "向量的模与夹角",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25196,
+   "tz_name": "向量的模"
+  },
+  "cnm_h091": {
+   "name": "余弦定理",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25415,
+   "tz_name": "余弦定理"
+  },
+  "cnm_h092": {
+   "name": "正弦定理",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25413,
+   "tz_name": "正弦定理"
+  },
+  "cnm_h093": {
+   "name": "解三角形",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25421,
+   "tz_name": "解三角形"
+  },
+  "cnm_h094": {
+   "name": "解三角形的实际应用",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25418,
+   "tz_name": "解三角形的实际应用"
+  },
+  "cnm_h096": {
+   "name": "用向量研究三角形",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 200850,
+   "tz_name": "三角形"
+  },
+  "cnm_h098": {
+   "name": "复数的几何意义",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 108556,
+   "tz_name": "几何"
+  },
+  "cnm_h099": {
+   "name": "复数相等",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25230,
+   "tz_name": "复数相等的充要条件"
+  },
+  "cnm_h101": {
+   "name": "复数加减的几何意义",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 108556,
+   "tz_name": "几何"
+  },
+  "cnm_h102": {
+   "name": "复数乘法",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25907,
+   "tz_name": "复数乘法的棣莫弗公式"
+  },
+  "cnm_h105": {
+   "name": "棱柱的结构",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25504,
+   "tz_name": "棱柱的结构特征"
+  },
+  "cnm_h106": {
+   "name": "圆柱、圆锥与球",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 200854,
+   "tz_name": "圆"
+  },
+  "cnm_h107": {
+   "name": "简单组合体",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 20423,
+   "tz_name": "简单组合体的三视图"
+  },
+  "cnm_h109": {
+   "name": "水平放置的平面图形直观图",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 20236,
+   "tz_name": "平面图形"
+  },
+  "cnm_h110": {
+   "name": "简单几何体的表面积",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 21085,
+   "tz_name": "几何体的表面积"
+  },
+  "cnm_h111": {
+   "name": "简单几何体的体积",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25145,
+   "tz_name": "用定积分求简单几何体的体积"
+  },
+  "cnm_h114": {
+   "name": "空间直线的位置关系",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 20596,
+   "tz_name": "位置"
+  },
+  "cnm_h115": {
+   "name": "直线与平面、平面与平面的位置",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 20596,
+   "tz_name": "位置"
+  },
+  "cnm_h116": {
+   "name": "直线与平面平行的判定",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25530,
+   "tz_name": "直线与平面平行的判定"
+  },
+  "cnm_h117": {
+   "name": "直线与平面平行的性质",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25531,
+   "tz_name": "直线与平面平行的性质"
+  },
+  "cnm_h118": {
+   "name": "平面与平面平行的判定",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25532,
+   "tz_name": "平面与平面平行的判定"
+  },
+  "cnm_h119": {
+   "name": "平面与平面平行的性质",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25533,
+   "tz_name": "平面与平面平行的性质"
+  },
+  "cnm_h120": {
+   "name": "直线与平面垂直的判定",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25534,
+   "tz_name": "直线与平面垂直的判定"
+  },
+  "cnm_h121": {
+   "name": "直线与平面垂直的性质",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25535,
+   "tz_name": "直线与平面垂直的性质"
+  },
+  "cnm_h122": {
+   "name": "平面与平面垂直",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25536,
+   "tz_name": "平面与平面垂直的判定"
+  },
+  "cnm_h124": {
+   "name": "简单随机抽样",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25238,
+   "tz_name": "简单随机抽样"
+  },
+  "cnm_h125": {
+   "name": "分层随机抽样",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_h127": {
+   "name": "频率分布直方图",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25244,
+   "tz_name": "频率分布直方图"
+  },
+  "cnm_h129": {
+   "name": "百分位数",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 200903,
+   "tz_name": "百分位数"
+  },
+  "cnm_h130": {
+   "name": "用样本估计总体的中心",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 20447,
+   "tz_name": "用样本估计总体"
+  },
+  "cnm_h131": {
+   "name": "用样本估计总体的离散程度",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 20447,
+   "tz_name": "用样本估计总体"
+  },
+  "cnm_h132": {
+   "name": "统计图表的选择",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 200842,
+   "tz_name": "统计图"
+  },
+  "cnm_h133": {
+   "name": "统计案例",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 200829,
+   "tz_name": "统计"
+  },
+  "cnm_h134": {
+   "name": "样本点与样本空间",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 200902,
+   "tz_name": "样本点与样本空间"
+  },
+  "cnm_h135": {
+   "name": "随机事件",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 20474,
+   "tz_name": "随机事件I"
+  },
+  "cnm_h137": {
+   "name": "古典概型",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 25279,
+   "tz_name": "古典概型及其概率计算公式"
+  },
+  "cnm_h138": {
+   "name": "概率的加法",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 201243,
+   "tz_name": "概率"
+  },
+  "cnm_h141": {
+   "name": "独立事件的概率计算",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 201243,
+   "tz_name": "概率"
+  },
+  "cnm_h142": {
+   "name": "频率与概率",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 201243,
+   "tz_name": "概率"
+  },
+  "cnm_h143": {
+   "name": "用频率估计概率",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 201243,
+   "tz_name": "概率"
+  },
+  "cnm_h144": {
+   "name": "空间向量的概念",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25539,
+   "tz_name": "空间向量的概念"
+  },
+  "cnm_h145": {
+   "name": "空间向量的线性运算",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 107083,
+   "tz_name": "向量的线性运算"
+  },
+  "cnm_h146": {
+   "name": "空间向量的数量积",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25544,
+   "tz_name": "空间向量的数量积运算"
+  },
+  "cnm_h147": {
+   "name": "空间向量的模与夹角",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25196,
+   "tz_name": "向量的模"
+  },
+  "cnm_h150": {
+   "name": "空间向量的正交分解",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25546,
+   "tz_name": "空间向量的正交分解及其坐标表示"
+  },
+  "cnm_h151": {
+   "name": "空间直角坐标系",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25472,
+   "tz_name": "空间直角坐标系"
+  },
+  "cnm_h154": {
+   "name": "空间两点间的距离",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 20241,
+   "tz_name": "两点间的距离"
+  },
+  "cnm_h155": {
+   "name": "直线的方向向量",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25550,
+   "tz_name": "直线的方向向量"
+  },
+  "cnm_h156": {
+   "name": "平面的法向量",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25551,
+   "tz_name": "平面的法向量"
+  },
+  "cnm_h157": {
+   "name": "用向量判断线面平行",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 200741,
+   "tz_name": "平行"
+  },
+  "cnm_h158": {
+   "name": "用向量判断面面平行",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 200741,
+   "tz_name": "平行"
+  },
+  "cnm_h161": {
+   "name": "空间角",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_h162": {
+   "name": "二面角",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_h164": {
+   "name": "用向量解决简单立体几何问题",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25496,
+   "tz_name": "立体几何"
+  },
+  "cnm_h165": {
+   "name": "直线的倾斜角",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25425,
+   "tz_name": "直线的倾斜角"
+  },
+  "cnm_h166": {
+   "name": "直线的斜率",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25426,
+   "tz_name": "直线的斜率"
+  },
+  "cnm_h168": {
+   "name": "用斜率判断平行与垂直",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 200849,
+   "tz_name": "平行与垂直"
+  },
+  "cnm_h169": {
+   "name": "直线的点斜式",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25434,
+   "tz_name": "直线的点斜式方程"
+  },
+  "cnm_h170": {
+   "name": "直线的截距式",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25437,
+   "tz_name": "直线的截距式方程"
+  },
+  "cnm_h171": {
+   "name": "直线的一般式",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25439,
+   "tz_name": "直线的一般式方程"
+  },
+  "cnm_h172": {
+   "name": "两条直线的交点",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25445,
+   "tz_name": "两条直线的交点坐标"
+  },
+  "cnm_h173": {
+   "name": "两点间的距离",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 20241,
+   "tz_name": "两点间的距离"
+  },
+  "cnm_h174": {
+   "name": "点到直线的距离",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 20265,
+   "tz_name": "点到直线的距离"
+  },
+  "cnm_h175": {
+   "name": "平行直线间的距离",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25453,
+   "tz_name": "两条平行直线间的距离"
+  },
+  "cnm_h176": {
+   "name": "圆的标准方程",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25457,
+   "tz_name": "圆的标准方程"
+  },
+  "cnm_h177": {
+   "name": "圆的一般方程",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25458,
+   "tz_name": "圆的一般方程"
+  },
+  "cnm_h178": {
+   "name": "由条件确定圆的方程",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 200854,
+   "tz_name": "圆"
+  },
+  "cnm_h179": {
+   "name": "直线与圆的位置关系",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 20370,
+   "tz_name": "直线与圆的位置关系I"
+  },
+  "cnm_h180": {
+   "name": "直线被圆截得的弦",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 200854,
+   "tz_name": "圆"
+  },
+  "cnm_h181": {
+   "name": "圆与圆的位置关系",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 20375,
+   "tz_name": "圆与圆的位置关系"
+  },
+  "cnm_h182": {
+   "name": "直线与圆的简单应用",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 200854,
+   "tz_name": "圆"
+  },
+  "cnm_h183": {
+   "name": "椭圆的定义",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25477,
+   "tz_name": "椭圆的定义"
+  },
+  "cnm_h184": {
+   "name": "椭圆的标准方程",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25478,
+   "tz_name": "椭圆的标准方程"
+  },
+  "cnm_h185": {
+   "name": "椭圆的 a、b、c 关系",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 200854,
+   "tz_name": "圆"
+  },
+  "cnm_h186": {
+   "name": "椭圆的简单几何性质",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 200854,
+   "tz_name": "圆"
+  },
+  "cnm_h187": {
+   "name": "椭圆的简单应用",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 200854,
+   "tz_name": "圆"
+  },
+  "cnm_h188": {
+   "name": "双曲线的定义",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25485,
+   "tz_name": "双曲线的定义"
+  },
+  "cnm_h189": {
+   "name": "双曲线的标准方程",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25486,
+   "tz_name": "双曲线的标准方程"
+  },
+  "cnm_h190": {
+   "name": "双曲线的简单几何性质",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 108556,
+   "tz_name": "几何"
+  },
+  "cnm_h192": {
+   "name": "抛物线的定义",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25481,
+   "tz_name": "抛物线的定义"
+  },
+  "cnm_h193": {
+   "name": "抛物线的标准方程",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 25482,
+   "tz_name": "抛物线的标准方程"
+  },
+  "cnm_h194": {
+   "name": "抛物线的简单几何性质",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 108556,
+   "tz_name": "几何"
+  },
+  "cnm_h196": {
+   "name": "直线与椭圆的交点个数",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 200854,
+   "tz_name": "圆"
+  },
+  "cnm_h197": {
+   "name": "数列的概念",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25624,
+   "tz_name": "数列的概念与表示"
+  },
+  "cnm_h198": {
+   "name": "数列的表示",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25167,
+   "tz_name": "数列"
+  },
+  "cnm_h199": {
+   "name": "通项公式",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25171,
+   "tz_name": "等差数列的通项公式"
+  },
+  "cnm_h201": {
+   "name": "等差数列的概念",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25167,
+   "tz_name": "数列"
+  },
+  "cnm_h202": {
+   "name": "等差数列的通项",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25171,
+   "tz_name": "等差数列的通项公式"
+  },
+  "cnm_h204": {
+   "name": "等差数列的前 n 项和",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25172,
+   "tz_name": "等差数列的前n项和"
+  },
+  "cnm_h205": {
+   "name": "等差数列与一次函数",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25173,
+   "tz_name": "等差数列与一次函数的关系"
+  },
+  "cnm_h206": {
+   "name": "等差数列的应用",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25178,
+   "tz_name": "数列的应用"
+  },
+  "cnm_h207": {
+   "name": "等比数列的概念",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_h208": {
+   "name": "等比数列的通项",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25175,
+   "tz_name": "等比数列的通项公式"
+  },
+  "cnm_h209": {
+   "name": "等比中项",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_h210": {
+   "name": "等比数列的前 n 项和",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25176,
+   "tz_name": "等比数列的前n项和"
+  },
+  "cnm_h211": {
+   "name": "等比数列与指数函数",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25177,
+   "tz_name": "等比数列与指数函数的关系"
+  },
+  "cnm_h212": {
+   "name": "等比数列的应用",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25178,
+   "tz_name": "数列的应用"
+  },
+  "cnm_h213": {
+   "name": "数学归纳法的原理",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25690,
+   "tz_name": "数学归纳法"
+  },
+  "cnm_h214": {
+   "name": "用数学归纳法证明简单命题",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25690,
+   "tz_name": "数学归纳法"
+  },
+  "cnm_h216": {
+   "name": "瞬时变化率与极限思想",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 200703,
+   "tz_name": "时"
+  },
+  "cnm_h217": {
+   "name": "导数的概念",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25141,
+   "tz_name": "导数的概念"
+  },
+  "cnm_h218": {
+   "name": "导函数",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 20174,
+   "tz_name": "函数"
+  },
+  "cnm_h219": {
+   "name": "导数的几何意义",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25125,
+   "tz_name": "导数的几何意义"
+  },
+  "cnm_h220": {
+   "name": "切线方程",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25463,
+   "tz_name": "圆的切线方程"
+  },
+  "cnm_h221": {
+   "name": "基本初等函数的导数",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 108827,
+   "tz_name": "基本初等函数"
+  },
+  "cnm_h223": {
+   "name": "简单复合函数的导数",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25129,
+   "tz_name": "简单复合函数的导数"
+  },
+  "cnm_h226": {
+   "name": "极值的条件",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25135,
+   "tz_name": "函数在某点取得极值的条件"
+  },
+  "cnm_h227": {
+   "name": "闭区间上的最值",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 25072,
+   "tz_name": "二次函数在闭区间上的最值"
+  },
+  "cnm_h229": {
+   "name": "不超过三次的多项式函数",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 20049,
+   "tz_name": "多项式"
+  },
+  "cnm_h230": {
+   "name": "分类加法计数原理",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 25298,
+   "tz_name": "分类加法计数原理"
+  },
+  "cnm_h231": {
+   "name": "分步乘法计数原理",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 25299,
+   "tz_name": "分步乘法计数原理"
+  },
+  "cnm_h232": {
+   "name": "分类与分步综合计数",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 28269,
+   "tz_name": "分类"
+  },
+  "cnm_h234": {
+   "name": "排列数公式",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 25301,
+   "tz_name": "排列及排列数公式"
+  },
+  "cnm_h237": {
+   "name": "组合数公式",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 25302,
+   "tz_name": "组合及组合数公式"
+  },
+  "cnm_h240": {
+   "name": "二项式定理",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 25307,
+   "tz_name": "二项式定理"
+  },
+  "cnm_h243": {
+   "name": "杨辉三角的性质",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 200742,
+   "tz_name": "角"
+  },
+  "cnm_h244": {
+   "name": "条件概率",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 201243,
+   "tz_name": "概率"
+  },
+  "cnm_h245": {
+   "name": "概率的乘法公式",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 201243,
+   "tz_name": "概率"
+  },
+  "cnm_h246": {
+   "name": "全概率公式",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 200904,
+   "tz_name": "全概率公式"
+  },
+  "cnm_h247": {
+   "name": "贝叶斯公式",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 200905,
+   "tz_name": "贝叶斯公式"
+  },
+  "cnm_h248": {
+   "name": "条件概率与独立性",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 201243,
+   "tz_name": "概率"
+  },
+  "cnm_h249": {
+   "name": "离散型随机变量",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 25284,
+   "tz_name": "离散型随机变量及其分布列"
+  },
+  "cnm_h250": {
+   "name": "分布列",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_h251": {
+   "name": "两点分布",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_h253": {
+   "name": "离散型随机变量的方差",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 20467,
+   "tz_name": "方差"
+  },
+  "cnm_h255": {
+   "name": "二项分布",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_h256": {
+   "name": "二项分布的均值与方差",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 20467,
+   "tz_name": "方差"
+  },
+  "cnm_h257": {
+   "name": "超几何分布",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 25288,
+   "tz_name": "超几何分布"
+  },
+  "cnm_h258": {
+   "name": "超几何分布的均值",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 25288,
+   "tz_name": "超几何分布"
+  },
+  "cnm_h259": {
+   "name": "正态分布的特征",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 200702,
+   "tz_name": "分"
+  },
+  "cnm_h261": {
+   "name": "成对数据的统计相关性",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 200829,
+   "tz_name": "统计"
+  },
+  "cnm_h262": {
+   "name": "样本相关系数",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 25263,
+   "tz_name": "相关系数"
+  },
+  "cnm_h263": {
+   "name": "比较相关性的强弱",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 200762,
+   "tz_name": "比"
+  },
+  "cnm_h269": {
+   "name": "独立性检验的思想",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 25257,
+   "tz_name": "独立性检验"
+  },
+  "cnm_h270": {
+   "name": "独立性检验的统计量",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 25257,
+   "tz_name": "独立性检验"
+  },
+  "cnm_h271": {
+   "name": "建立统计模型进行预测",
+   "grade": 14,
+   "grade_id": 30300,
+   "knowledge_id": 200829,
+   "tz_name": "统计"
+  }
+ },
+ "unmatched": [
+  {
+   "topicId": "cnm_p002",
+   "name": "5以内数的大小",
+   "grade": 1,
+   "grade_id": 111
+  },
+  {
+   "topicId": "cnm_p003",
+   "name": "几和第几",
+   "grade": 1,
+   "grade_id": 111
+  },
+  {
+   "topicId": "cnm_p010",
+   "name": "10以内的加法",
+   "grade": 1,
+   "grade_id": 111
+  },
+  {
+   "topicId": "cnm_p011",
+   "name": "10以内的减法",
+   "grade": 1,
+   "grade_id": 111
+  },
+  {
+   "topicId": "cnm_p012",
+   "name": "连加和连减",
+   "grade": 1,
+   "grade_id": 111
+  },
+  {
+   "topicId": "cnm_p013",
+   "name": "10以内加减混合",
+   "grade": 1,
+   "grade_id": 111
+  },
+  {
+   "topicId": "cnm_p017",
+   "name": "十位和个位",
+   "grade": 1,
+   "grade_id": 111
+  },
+  {
+   "topicId": "cnm_p019",
+   "name": "凑十法",
+   "grade": 1,
+   "grade_id": 111
+  },
+  {
+   "topicId": "cnm_p021",
+   "name": "8、7、6加几",
+   "grade": 1,
+   "grade_id": 111
+  },
+  {
+   "topicId": "cnm_p026",
+   "name": "十几减8、7、6",
+   "grade": 1,
+   "grade_id": 112
+  },
+  {
+   "topicId": "cnm_p028",
+   "name": "数数、数的组成",
+   "grade": 1,
+   "grade_id": 112
+  },
+  {
+   "topicId": "cnm_p030",
+   "name": "简单的加、减法",
+   "grade": 1,
+   "grade_id": 112
+  },
+  {
+   "topicId": "cnm_p031",
+   "name": "口算加法",
+   "grade": 1,
+   "grade_id": 112
+  },
+  {
+   "topicId": "cnm_p032",
+   "name": "口算减法",
+   "grade": 1,
+   "grade_id": 112
+  },
+  {
+   "topicId": "cnm_p033",
+   "name": "笔算加法",
+   "grade": 1,
+   "grade_id": 112
+  },
+  {
+   "topicId": "cnm_p034",
+   "name": "笔算减法",
+   "grade": 1,
+   "grade_id": 112
+  },
+  {
+   "topicId": "cnm_p217",
+   "name": "求两数相差几",
+   "grade": 1,
+   "grade_id": 112
+  },
+  {
+   "topicId": "cnm_p038",
+   "name": "乘法的初步认识",
+   "grade": 2,
+   "grade_id": 121
+  },
+  {
+   "topicId": "cnm_p048",
+   "name": "选择一种运算解决问题",
+   "grade": 2,
+   "grade_id": 121
+  },
+  {
+   "topicId": "cnm_p043",
+   "name": "除法的意义",
+   "grade": 2,
+   "grade_id": 121
+  },
+  {
+   "topicId": "cnm_p047",
+   "name": "除法的基本应用",
+   "grade": 2,
+   "grade_id": 121
+  },
+  {
+   "topicId": "cnm_p049",
+   "name": "认识东、南、西、北",
+   "grade": 2,
+   "grade_id": 121
+  },
+  {
+   "topicId": "cnm_p040",
+   "name": "认识厘米及用厘米量",
+   "grade": 2,
+   "grade_id": 121
+  },
+  {
+   "topicId": "cnm_p041",
+   "name": "认识米及用米量",
+   "grade": 2,
+   "grade_id": 121
+  },
+  {
+   "topicId": "cnm_p051",
+   "name": "用口诀求商和余数",
+   "grade": 2,
+   "grade_id": 122
+  },
+  {
+   "topicId": "cnm_p052",
+   "name": "有余数除法的应用",
+   "grade": 2,
+   "grade_id": 122
+  },
+  {
+   "topicId": "cnm_p219",
+   "name": "数量间的乘除关系",
+   "grade": 2,
+   "grade_id": 122
+  },
+  {
+   "topicId": "cnm_p055",
+   "name": "万以内数的组成",
+   "grade": 2,
+   "grade_id": 122
+  },
+  {
+   "topicId": "cnm_p064",
+   "name": "几百几十的口算加法",
+   "grade": 2,
+   "grade_id": 122
+  },
+  {
+   "topicId": "cnm_p065",
+   "name": "几百几十的口算减法",
+   "grade": 2,
+   "grade_id": 122
+  },
+  {
+   "topicId": "cnm_p060",
+   "name": "简单的变化规律",
+   "grade": 2,
+   "grade_id": 122
+  },
+  {
+   "topicId": "cnm_p221",
+   "name": "观察简单的立体积木",
+   "grade": 3,
+   "grade_id": 131
+  },
+  {
+   "topicId": "cnm_p222",
+   "name": "长方体纸盒的展开",
+   "grade": 3,
+   "grade_id": 131
+  },
+  {
+   "topicId": "cnm_p223",
+   "name": "同级运算与两级运算",
+   "grade": 3,
+   "grade_id": 131
+  },
+  {
+   "topicId": "cnm_p058",
+   "name": "含有小括号的两级运算",
+   "grade": 3,
+   "grade_id": 131
+  },
+  {
+   "topicId": "cnm_p059",
+   "name": "用混合运算解决问题",
+   "grade": 3,
+   "grade_id": 131
+  },
+  {
+   "topicId": "cnm_p074",
+   "name": "笔算乘法",
+   "grade": 3,
+   "grade_id": 131
+  },
+  {
+   "topicId": "cnm_p075",
+   "name": "因数中间或末尾有0的乘法",
+   "grade": 3,
+   "grade_id": 131
+  },
+  {
+   "topicId": "cnm_p099",
+   "name": "线段、射线、直线的概念",
+   "grade": 3,
+   "grade_id": 131
+  },
+  {
+   "topicId": "cnm_p073",
+   "name": "倍的认识",
+   "grade": 3,
+   "grade_id": 131
+  },
+  {
+   "topicId": "cnm_p095",
+   "name": "搭配问题",
+   "grade": 3,
+   "grade_id": 131
+  },
+  {
+   "topicId": "cnm_p228",
+   "name": "生活中的运动现象",
+   "grade": 3,
+   "grade_id": 132
+  },
+  {
+   "topicId": "cnm_p083",
+   "name": "笔算除法",
+   "grade": 3,
+   "grade_id": 132
+  },
+  {
+   "topicId": "cnm_p084",
+   "name": "除法解决实际问题",
+   "grade": 3,
+   "grade_id": 132
+  },
+  {
+   "topicId": "cnm_p077",
+   "name": "长方形和正方形的特征",
+   "grade": 3,
+   "grade_id": 132
+  },
+  {
+   "topicId": "cnm_p085",
+   "name": "数据的收集与整理",
+   "grade": 3,
+   "grade_id": 132
+  },
+  {
+   "topicId": "cnm_p091",
+   "name": "年历中的秘密",
+   "grade": 3,
+   "grade_id": 132
+  },
+  {
+   "topicId": "cnm_p093",
+   "name": "认识小数",
+   "grade": 3,
+   "grade_id": 132
+  },
+  {
+   "topicId": "cnm_p094",
+   "name": "简单的小数加、减法",
+   "grade": 3,
+   "grade_id": 132
+  },
+  {
+   "topicId": "cnm_p082",
+   "name": "东北、东南、西北、西南",
+   "grade": 3,
+   "grade_id": 132
+  },
+  {
+   "topicId": "cnm_p097",
+   "name": "大数的改写和近似",
+   "grade": 4,
+   "grade_id": 141
+  },
+  {
+   "topicId": "cnm_p236",
+   "name": "1亿有多大",
+   "grade": 4,
+   "grade_id": 141
+  },
+  {
+   "topicId": "cnm_p087",
+   "name": "两位数乘法的应用",
+   "grade": 4,
+   "grade_id": 141
+  },
+  {
+   "topicId": "cnm_p102",
+   "name": "多位数乘两位数",
+   "grade": 4,
+   "grade_id": 141
+  },
+  {
+   "topicId": "cnm_p233",
+   "name": "用估算解决问题",
+   "grade": 4,
+   "grade_id": 141
+  },
+  {
+   "topicId": "cnm_p230",
+   "name": "加法模型",
+   "grade": 4,
+   "grade_id": 141
+  },
+  {
+   "topicId": "cnm_p231",
+   "name": "乘法模型",
+   "grade": 4,
+   "grade_id": 141
+  },
+  {
+   "topicId": "cnm_p235",
+   "name": "寻找宝藏",
+   "grade": 4,
+   "grade_id": 141
+  },
+  {
+   "topicId": "cnm_p118",
+   "name": "小数的意义",
+   "grade": 4,
+   "grade_id": 142
+  },
+  {
+   "topicId": "cnm_p120",
+   "name": "小数点移动引起的大小变化",
+   "grade": 4,
+   "grade_id": 142
+  },
+  {
+   "topicId": "cnm_p121",
+   "name": "求小数的近似数",
+   "grade": 4,
+   "grade_id": 142
+  },
+  {
+   "topicId": "cnm_p125",
+   "name": "小数加减法",
+   "grade": 4,
+   "grade_id": 142
+  },
+  {
+   "topicId": "cnm_p126",
+   "name": "小数加减解决实际问题",
+   "grade": 4,
+   "grade_id": 142
+  },
+  {
+   "topicId": "cnm_p106",
+   "name": "除数是两位数的除法",
+   "grade": 4,
+   "grade_id": 141
+  },
+  {
+   "topicId": "cnm_p237",
+   "name": "观察简单组合体",
+   "grade": 5,
+   "grade_id": 151
+  },
+  {
+   "topicId": "cnm_p138",
+   "name": "一个数除以小数",
+   "grade": 5,
+   "grade_id": 151
+  },
+  {
+   "topicId": "cnm_p239",
+   "name": "有趣的密铺",
+   "grade": 5,
+   "grade_id": 151
+  },
+  {
+   "topicId": "cnm_p135",
+   "name": "积的近似数",
+   "grade": 5,
+   "grade_id": 151
+  },
+  {
+   "topicId": "cnm_p145",
+   "name": "解简易方程",
+   "grade": 5,
+   "grade_id": 151
+  },
+  {
+   "topicId": "cnm_p146",
+   "name": "列方程解决实际问题",
+   "grade": 5,
+   "grade_id": 151
+  },
+  {
+   "topicId": "cnm_p154",
+   "name": "2和5的倍数的特征",
+   "grade": 5,
+   "grade_id": 152
+  },
+  {
+   "topicId": "cnm_p155",
+   "name": "3的倍数的特征",
+   "grade": 5,
+   "grade_id": 152
+  },
+  {
+   "topicId": "cnm_p156",
+   "name": "奇数和偶数",
+   "grade": 5,
+   "grade_id": 152
+  },
+  {
+   "topicId": "cnm_p157",
+   "name": "质数和合数",
+   "grade": 5,
+   "grade_id": 152
+  },
+  {
+   "topicId": "cnm_p160",
+   "name": "长方体和正方体的认识",
+   "grade": 5,
+   "grade_id": 152
+  },
+  {
+   "topicId": "cnm_p161",
+   "name": "长方体的表面积",
+   "grade": 5,
+   "grade_id": 152
+  },
+  {
+   "topicId": "cnm_p162",
+   "name": "体积单位",
+   "grade": 5,
+   "grade_id": 152
+  },
+  {
+   "topicId": "cnm_p201",
+   "name": "认识负数",
+   "grade": 6,
+   "grade_id": 161
+  },
+  {
+   "topicId": "cnm_p202",
+   "name": "用负数表示相反意义的量",
+   "grade": 6,
+   "grade_id": 161
+  },
+  {
+   "topicId": "cnm_p241",
+   "name": "体育中的数学",
+   "grade": 6,
+   "grade_id": 161
+  },
+  {
+   "topicId": "cnm_p242",
+   "name": "水是生命之源",
+   "grade": 6,
+   "grade_id": 161
+  },
+  {
+   "topicId": "cnm_p244",
+   "name": "探索图形",
+   "grade": 5,
+   "grade_id": 152
+  },
+  {
+   "topicId": "cnm_p245",
+   "name": "怎样通知最快",
+   "grade": 5,
+   "grade_id": 152
+  },
+  {
+   "topicId": "cnm_p216",
+   "name": "鸽巢问题",
+   "grade": 6,
+   "grade_id": 161
+  },
+  {
+   "topicId": "cnm_p250",
+   "name": "自行车里的数学",
+   "grade": 6,
+   "grade_id": 162
+  },
+  {
+   "topicId": "cnm_p252",
+   "name": "逆向用加法解决问题",
+   "grade": 1,
+   "grade_id": 111
+  },
+  {
+   "topicId": "cnm_p253",
+   "name": "用加减法解决问题",
+   "grade": 1,
+   "grade_id": 111
+  },
+  {
+   "topicId": "cnm_p254",
+   "name": "拼一拼",
+   "grade": 1,
+   "grade_id": 111
+  },
+  {
+   "topicId": "cnm_p256",
+   "name": "解决含有多余信息的问题",
+   "grade": 1,
+   "grade_id": 112
+  },
+  {
+   "topicId": "cnm_p259",
+   "name": "用连减解决问题",
+   "grade": 1,
+   "grade_id": 112
+  },
+  {
+   "topicId": "cnm_p260",
+   "name": "买卖我做主",
+   "grade": 1,
+   "grade_id": 112
+  },
+  {
+   "topicId": "cnm_p262",
+   "name": "用乘法解决购物问题",
+   "grade": 2,
+   "grade_id": 121
+  },
+  {
+   "topicId": "cnm_p265",
+   "name": "认识线段",
+   "grade": 2,
+   "grade_id": 121
+  },
+  {
+   "topicId": "cnm_p266",
+   "name": "用估量解决问题",
+   "grade": 2,
+   "grade_id": 121
+  },
+  {
+   "topicId": "cnm_p267",
+   "name": "设计导游路线",
+   "grade": 2,
+   "grade_id": 121
+  },
+  {
+   "topicId": "cnm_p268",
+   "name": "解决连续两问的问题",
+   "grade": 2,
+   "grade_id": 121
+  },
+  {
+   "topicId": "cnm_p270",
+   "name": "简单的加、减法",
+   "grade": 2,
+   "grade_id": 122
+  },
+  {
+   "topicId": "cnm_p271",
+   "name": "数独游戏",
+   "grade": 2,
+   "grade_id": 122
+  },
+  {
+   "topicId": "cnm_p274",
+   "name": "根据直观图猜测积木形状",
+   "grade": 3,
+   "grade_id": 131
+  },
+  {
+   "topicId": "cnm_p275",
+   "name": "口算乘法",
+   "grade": 3,
+   "grade_id": 131
+  },
+  {
+   "topicId": "cnm_p276",
+   "name": "乘法估算",
+   "grade": 3,
+   "grade_id": 131
+  },
+  {
+   "topicId": "cnm_p280",
+   "name": "编制学号",
+   "grade": 3,
+   "grade_id": 131
+  },
+  {
+   "topicId": "cnm_p282",
+   "name": "口算除法",
+   "grade": 3,
+   "grade_id": 132
+  },
+  {
+   "topicId": "cnm_p283",
+   "name": "拼图游戏",
+   "grade": 3,
+   "grade_id": 132
+  },
+  {
+   "topicId": "cnm_p285",
+   "name": "年历设计师",
+   "grade": 3,
+   "grade_id": 132
+  },
+  {
+   "topicId": "cnm_002",
+   "name": "用正负数表示相反意义的量",
+   "grade": 7,
+   "grade_id": 201
+  },
+  {
+   "topicId": "cnm_011",
+   "name": "加法运算律与简便运算",
+   "grade": 7,
+   "grade_id": 201
+  },
+  {
+   "topicId": "cnm_015",
+   "name": "乘法运算律与多个因数相乘",
+   "grade": 7,
+   "grade_id": 201
+  },
+  {
+   "topicId": "cnm_035",
+   "name": "去括号法则",
+   "grade": 7,
+   "grade_id": 201
+  },
+  {
+   "topicId": "cnm_048",
+   "name": "销售与利润问题",
+   "grade": 7,
+   "grade_id": 201
+  },
+  {
+   "topicId": "cnm_054",
+   "name": "直线与线段的基本事实",
+   "grade": 7,
+   "grade_id": 201
+  },
+  {
+   "topicId": "cnm_087",
+   "name": "二元一次方程及其解",
+   "grade": 7,
+   "grade_id": 202
+  },
+  {
+   "topicId": "cnm_092",
+   "name": "方程组应用的常见类型",
+   "grade": 7,
+   "grade_id": 202
+  },
+  {
+   "topicId": "cnm_101",
+   "name": "综合与实践：低碳生活",
+   "grade": 7,
+   "grade_id": 202
+  },
+  {
+   "topicId": "cnm_292",
+   "name": "数据收集的方法：问卷调查、实验与查阅资料",
+   "grade": 7,
+   "grade_id": 202
+  },
+  {
+   "topicId": "cnm_103",
+   "name": "总体、个体、样本与样本容量",
+   "grade": 7,
+   "grade_id": 202
+  },
+  {
+   "topicId": "cnm_104",
+   "name": "样本的代表性与随机抽样",
+   "grade": 7,
+   "grade_id": 202
+  },
+  {
+   "topicId": "cnm_105",
+   "name": "扇形图、条形图与折线图",
+   "grade": 7,
+   "grade_id": 202
+  },
+  {
+   "topicId": "cnm_294",
+   "name": "条形图与折线图的绘制",
+   "grade": 7,
+   "grade_id": 202
+  },
+  {
+   "topicId": "cnm_108",
+   "name": "趋势图",
+   "grade": 7,
+   "grade_id": 202
+  },
+  {
+   "topicId": "cnm_122",
+   "name": "全等判定：边边边（SSS）",
+   "grade": 8,
+   "grade_id": 301
+  },
+  {
+   "topicId": "cnm_126",
+   "name": "综合运用全等判定与规范书写",
+   "grade": 8,
+   "grade_id": 301
+  },
+  {
+   "topicId": "cnm_141",
+   "name": "综合与实践：最短路径问题",
+   "grade": 8,
+   "grade_id": 301
+  },
+  {
+   "topicId": "cnm_149",
+   "name": "乘法公式的综合运用",
+   "grade": 8,
+   "grade_id": 301
+  },
+  {
+   "topicId": "cnm_153",
+   "name": "公式法：完全平方",
+   "grade": 8,
+   "grade_id": 301
+  },
+  {
+   "topicId": "cnm_193",
+   "name": "变量与常量",
+   "grade": 8,
+   "grade_id": 302
+  },
+  {
+   "topicId": "cnm_210",
+   "name": "综合与实践：音乐与数学",
+   "grade": 8,
+   "grade_id": 302
+  },
+  {
+   "topicId": "cnm_302",
+   "name": "用样本平均数估计总体平均数",
+   "grade": 8,
+   "grade_id": 302
+  },
+  {
+   "topicId": "cnm_222",
+   "name": "公式法与求根公式",
+   "grade": 9,
+   "grade_id": 401
+  },
+  {
+   "topicId": "cnm_227",
+   "name": "增长率与传播问题",
+   "grade": 9,
+   "grade_id": 401
+  },
+  {
+   "topicId": "cnm_228",
+   "name": "面积与销售利润问题",
+   "grade": 9,
+   "grade_id": 401
+  },
+  {
+   "topicId": "cnm_230",
+   "name": "y=ax² 的图象与性质",
+   "grade": 9,
+   "grade_id": 401
+  },
+  {
+   "topicId": "cnm_267",
+   "name": "综合与实践：生活中的优化问题",
+   "grade": 9,
+   "grade_id": 401
+  },
+  {
+   "topicId": "cnm_290",
+   "name": "综合与实践：停车设计问题",
+   "grade": 9,
+   "grade_id": 402
+  },
+  {
+   "topicId": "cnm_282",
+   "name": "正投影",
+   "grade": 9,
+   "grade_id": 402
+  },
+  {
+   "topicId": "cnm_291",
+   "name": "综合与实践：建筑中的数学",
+   "grade": 9,
+   "grade_id": 402
+  },
+  {
+   "topicId": "cnm_284",
+   "name": "随机事件、必然事件与不可能事件",
+   "grade": 9,
+   "grade_id": 402
+  },
+  {
+   "topicId": "cnm_315",
+   "name": "综合与实践：用随机试验检验游戏的公平性（补充课题）",
+   "grade": 9,
+   "grade_id": 402
+  },
+  {
+   "topicId": "cnm_h004",
+   "name": "描述法",
+   "grade": 10,
+   "grade_id": 501
+  },
+  {
+   "topicId": "cnm_h005",
+   "name": "常用数集",
+   "grade": 10,
+   "grade_id": 501
+  },
+  {
+   "topicId": "cnm_h011",
+   "name": "交并补的混合运算",
+   "grade": 10,
+   "grade_id": 501
+  },
+  {
+   "topicId": "cnm_h033",
+   "name": "用定义证明单调性",
+   "grade": 10,
+   "grade_id": 501
+  },
+  {
+   "topicId": "cnm_h036",
+   "name": "奇偶性与图象",
+   "grade": 10,
+   "grade_id": 501
+  },
+  {
+   "topicId": "cnm_h053",
+   "name": "数学建模的过程",
+   "grade": 10,
+   "grade_id": 501
+  },
+  {
+   "topicId": "cnm_h065",
+   "name": "用诱导公式求值",
+   "grade": 10,
+   "grade_id": 501
+  },
+  {
+   "topicId": "cnm_h080",
+   "name": "相等向量与共线向量",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h081",
+   "name": "向量加法",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h082",
+   "name": "向量减法",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h084",
+   "name": "向量共线定理",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h086",
+   "name": "向量的坐标表示",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h089",
+   "name": "数量积的运算律",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h095",
+   "name": "向量方法研究图形",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h097",
+   "name": "复数的概念",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h100",
+   "name": "复数加法与减法",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h103",
+   "name": "复数除法",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h104",
+   "name": "复数的幂",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h108",
+   "name": "斜二测画法",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h112",
+   "name": "球的体积与表面积",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h113",
+   "name": "平面的基本事实",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h123",
+   "name": "获取数据的途径",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h126",
+   "name": "抽样方法的选择",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h128",
+   "name": "从直方图读取信息",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h136",
+   "name": "事件的关系与运算",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h139",
+   "name": "互斥与对立",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h140",
+   "name": "事件的相互独立",
+   "grade": 11,
+   "grade_id": 601
+  },
+  {
+   "topicId": "cnm_h148",
+   "name": "空间向量共线",
+   "grade": 12,
+   "grade_id": 30100
+  },
+  {
+   "topicId": "cnm_h149",
+   "name": "空间向量基本定理",
+   "grade": 12,
+   "grade_id": 30100
+  },
+  {
+   "topicId": "cnm_h152",
+   "name": "空间向量的坐标",
+   "grade": 12,
+   "grade_id": 30100
+  },
+  {
+   "topicId": "cnm_h153",
+   "name": "坐标下的向量运算",
+   "grade": 12,
+   "grade_id": 30100
+  },
+  {
+   "topicId": "cnm_h159",
+   "name": "用向量判断线面垂直",
+   "grade": 12,
+   "grade_id": 30100
+  },
+  {
+   "topicId": "cnm_h160",
+   "name": "用向量判断面面垂直",
+   "grade": 12,
+   "grade_id": 30100
+  },
+  {
+   "topicId": "cnm_h163",
+   "name": "点到平面的距离",
+   "grade": 12,
+   "grade_id": 30100
+  },
+  {
+   "topicId": "cnm_h167",
+   "name": "过两点的斜率公式",
+   "grade": 12,
+   "grade_id": 30100
+  },
+  {
+   "topicId": "cnm_h191",
+   "name": "双曲线的渐近线",
+   "grade": 12,
+   "grade_id": 30100
+  },
+  {
+   "topicId": "cnm_h195",
+   "name": "抛物线的简单应用",
+   "grade": 12,
+   "grade_id": 30100
+  },
+  {
+   "topicId": "cnm_h200",
+   "name": "简单递推关系",
+   "grade": 13,
+   "grade_id": 30200
+  },
+  {
+   "topicId": "cnm_h203",
+   "name": "等差中项",
+   "grade": 13,
+   "grade_id": 30200
+  },
+  {
+   "topicId": "cnm_h215",
+   "name": "平均变化率",
+   "grade": 13,
+   "grade_id": 30200
+  },
+  {
+   "topicId": "cnm_h222",
+   "name": "导数的四则运算",
+   "grade": 13,
+   "grade_id": 30200
+  },
+  {
+   "topicId": "cnm_h224",
+   "name": "导数与单调性",
+   "grade": 13,
+   "grade_id": 30200
+  },
+  {
+   "topicId": "cnm_h225",
+   "name": "用导数求单调区间",
+   "grade": 13,
+   "grade_id": 30200
+  },
+  {
+   "topicId": "cnm_h228",
+   "name": "用导数解决优化问题",
+   "grade": 13,
+   "grade_id": 30200
+  },
+  {
+   "topicId": "cnm_h233",
+   "name": "排列的概念",
+   "grade": 14,
+   "grade_id": 30300
+  },
+  {
+   "topicId": "cnm_h235",
+   "name": "排列的简单应用",
+   "grade": 14,
+   "grade_id": 30300
+  },
+  {
+   "topicId": "cnm_h236",
+   "name": "组合的概念",
+   "grade": 14,
+   "grade_id": 30300
+  },
+  {
+   "topicId": "cnm_h238",
+   "name": "组合数的性质",
+   "grade": 14,
+   "grade_id": 30300
+  },
+  {
+   "topicId": "cnm_h239",
+   "name": "组合的简单应用",
+   "grade": 14,
+   "grade_id": 30300
+  },
+  {
+   "topicId": "cnm_h241",
+   "name": "二项展开式的指定项",
+   "grade": 14,
+   "grade_id": 30300
+  },
+  {
+   "topicId": "cnm_h242",
+   "name": "二项式系数的和",
+   "grade": 14,
+   "grade_id": 30300
+  },
+  {
+   "topicId": "cnm_h252",
+   "name": "离散型随机变量的均值",
+   "grade": 14,
+   "grade_id": 30300
+  },
+  {
+   "topicId": "cnm_h254",
+   "name": "伯努利试验",
+   "grade": 14,
+   "grade_id": 30300
+  },
+  {
+   "topicId": "cnm_h260",
+   "name": "正态曲线的经验规则",
+   "grade": 14,
+   "grade_id": 30300
+  },
+  {
+   "topicId": "cnm_h264",
+   "name": "一元线性回归模型",
+   "grade": 14,
+   "grade_id": 30300
+  },
+  {
+   "topicId": "cnm_h265",
+   "name": "最小二乘原理",
+   "grade": 14,
+   "grade_id": 30300
+  },
+  {
+   "topicId": "cnm_h266",
+   "name": "回归系数的最小二乘估计",
+   "grade": 14,
+   "grade_id": 30300
+  },
+  {
+   "topicId": "cnm_h267",
+   "name": "用回归直线做预测",
+   "grade": 14,
+   "grade_id": 30300
+  },
+  {
+   "topicId": "cnm_h268",
+   "name": "2×2 列联表",
+   "grade": 14,
+   "grade_id": 30300
+  }
+ ]
+}
