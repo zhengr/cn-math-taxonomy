@@ -1,0 +1,87 @@
+name: tizhuang-import
+
+# 每天自动从体庄题库拉取真题扩充 data/questions.json(受每日 200 题配额限制, 脚本内会读 quota 自动刹车)
+# 也可手动触发并指定年级: Actions -> tizhuang-import -> Run workflow -> grades 填如 7,8,9 或 10,11,12,13,14
+on:
+  schedule:
+    - cron: "30 0 * * *"   # UTC 00:30 = 北京时间 08:30, 配额按服务器日期每日重置
+  workflow_dispatch:
+    inputs:
+      grades:
+        description: "年级(逗号分隔 1-14, 如 7,8,9; 留空=全部年级)"
+        required: false
+        default: ""
+      per_topic:
+        description: "每个知识点本次最多导入几题"
+        required: false
+        default: "2"
+      target:
+        description: "每个知识点目标题数(已达标即跳过)"
+        required: false
+        default: "10"
+      budget:
+        description: "本次消耗上限(题数; 0=按当日剩余额度自动)"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write   # 自动把新题 commit 回仓库
+
+concurrency:
+  group: tizhuang-import
+  cancel-in-progress: false   # 排队执行, 避免两次运行同时吃同一天配额
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests beautifulsoup4
+
+      - name: 检查密钥
+        env:
+          TIZHUANG_API_KEY: ${{ secrets.TIZHUANG_API_KEY }}
+        run: |
+          if [ -z "$TIZHUANG_API_KEY" ]; then
+            echo "缺少仓库 secret TIZHUANG_API_KEY (Settings -> Secrets and variables -> Actions)"
+            exit 1
+          fi
+
+      - name: 解析知识点映射(免费元数据)
+        env:
+          TIZHUANG_API_KEY: ${{ secrets.TIZHUANG_API_KEY }}
+        run: python3 scripts/tizhuang_import.py map
+
+      - name: 拉取真题(配额自动刹车)
+        env:
+          TIZHUANG_API_KEY: ${{ secrets.TIZHUANG_API_KEY }}
+        run: |
+          ARGS="--per-topic ${{ inputs.per_topic || '2' }} --target ${{ inputs.target || '10' }}"
+          if [ "${{ inputs.budget || '0' }}" != "0" ]; then ARGS="$ARGS --budget ${{ inputs.budget }}"; fi
+          if [ -n "${{ inputs.grades }}" ]; then ARGS="$ARGS --grades ${{ inputs.grades }}"; fi
+          echo "fetch $ARGS"
+          python3 scripts/tizhuang_import.py fetch $ARGS
+
+      - name: 校验题库
+        run: |
+          python3 scripts/validate.py
+          python3 scripts/verify_questions.py
+
+      - name: 提交新题(没新题则跳过)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/questions.json data/verification_report.json \
+                  data/_tizhuang_import/log.json data/_tizhuang_import/topic_map.json
+          if git diff --cached --quiet; then
+            echo "今天没有新题, 不提交"
+            exit 0
+          fi
+          git commit -m "chore(tizhuang): 自动导入真题 $(date -u +%F)"
+          git push

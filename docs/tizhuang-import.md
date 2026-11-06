@@ -40,3 +40,17 @@ python3 scripts/tizhuang_import.py status
 - 公式是图片的题(has_images=true)无法表达为本库的纯文本 prompt,只能放弃(几何图形题基本都在内)。
 - `offset` 分页参数被服务端忽略,靠 `random_order=true` 每天抽到新题。
 - 每天最多 200 题,脚本会读 quota 自动刹车(`--budget` 可再限),次天继续;按年级轮询保证各学段均衡。
+
+## GitHub Action 每日自动导入
+
+`.github/workflows/tizhuang-import.yml`(已随本改动提交):
+
+- 定时:每天 UTC 00:30(北京时间 08:30)自动跑一次 `fetch`(服务器配额按日重置,脚本内读
+  `GET /v1/quota` 自动刹车,每天最多吃 200 题)。
+- 手动:Actions -> **tizhuang-import** -> Run workflow,可填 `grades`(如 `7,8,9` 或
+  `10,11,12,13,14`,留空=全部)、`per_topic`、`target`、`budget`。
+- 需要在仓库 Settings -> Secrets and variables -> Actions 里添加 secret
+  **`TIZHUANG_API_KEY`**(值就是本地 .env 里的那个 key)。
+- 流程:map(免费) -> fetch -> `validate.py` + `verify_questions.py` 校验通过后,
+  用内置 GITHUB_TOKEN 把新题自动 commit 回仓库(当天没新题则不提交)。
+- `concurrency` 保证同一时间只有一个实例在跑,避免重复吃配额。
