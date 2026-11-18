@@ -1677,8 +1677,8 @@
    "name": "平行线与平行公理",
    "grade": 7,
    "grade_id": 202,
-   "knowledge_id": 20266,
-   "tz_name": "平行线"
+   "knowledge_id": 204338,
+   "tz_name": "平行公理"
   },
   "cnm_068": {
    "name": "平行线的判定",
@@ -2531,8 +2531,8 @@
    "name": "函数的概念",
    "grade": 8,
    "grade_id": 302,
-   "knowledge_id": 25040,
-   "tz_name": "函数的概念及其构成要素"
+   "knowledge_id": 204265,
+   "tz_name": "幂函数的概念与表示"
   },
   "cnm_195": {
    "name": "自变量的取值范围",
@@ -2804,8 +2804,8 @@
    "name": "二次函数与一元二次方程",
    "grade": 9,
    "grade_id": 401,
-   "knowledge_id": 20139,
-   "tz_name": "一元二次方程"
+   "knowledge_id": 204289,
+   "tz_name": "二次函数与一元二次方程、不等式的解的对应关系"
   },
   "cnm_235": {
    "name": "二次函数的最值",
@@ -3136,6 +3136,13 @@
    "knowledge_id": 20243,
    "tz_name": "立体图形"
   },
+  "cnm_284": {
+   "name": "随机事件、必然事件与不可能事件",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 204300,
+   "tz_name": "随机事件"
+  },
   "cnm_307": {
    "name": "事件发生可能性大小的比较与排序",
    "grade": 9,
@@ -3227,6 +3234,13 @@
    "knowledge_id": 201243,
    "tz_name": "概率"
   },
+  "cnm_315": {
+   "name": "综合与实践：用随机试验检验游戏的公平性（补充课题）",
+   "grade": 9,
+   "grade_id": 402,
+   "knowledge_id": 204368,
+   "tz_name": "随机试验"
+  },
   "cnm_h001": {
    "name": "集合的含义",
    "grade": 10,
@@ -3238,8 +3252,8 @@
    "name": "元素与集合的关系",
    "grade": 10,
    "grade_id": 501,
-   "knowledge_id": 25001,
-   "tz_name": "集合"
+   "knowledge_id": 204263,
+   "tz_name": "元素与集合的关系"
   },
   "cnm_h003": {
    "name": "列举法",
@@ -3252,8 +3266,8 @@
    "name": "子集与集合相等",
    "grade": 10,
    "grade_id": 501,
-   "knowledge_id": 25001,
-   "tz_name": "集合"
+   "knowledge_id": 204296,
+   "tz_name": "集合相等"
   },
   "cnm_h007": {
    "name": "真子集",
@@ -3364,8 +3378,8 @@
    "name": "二次函数与一元二次方程",
    "grade": 10,
    "grade_id": 501,
-   "knowledge_id": 20139,
-   "tz_name": "一元二次方程"
+   "knowledge_id": 204289,
+   "tz_name": "二次函数与一元二次方程、不等式的解的对应关系"
   },
   "cnm_h024": {
    "name": "一元二次不等式",
@@ -3392,8 +3406,8 @@
    "name": "函数的概念",
    "grade": 10,
    "grade_id": 501,
-   "knowledge_id": 25040,
-   "tz_name": "函数的概念及其构成要素"
+   "knowledge_id": 204265,
+   "tz_name": "幂函数的概念与表示"
   },
   "cnm_h028": {
    "name": "函数的定义域",
@@ -3413,8 +3427,8 @@
    "name": "函数的表示方法",
    "grade": 10,
    "grade_id": 501,
-   "knowledge_id": 20189,
-   "tz_name": "函数的表示方法I"
+   "knowledge_id": 204363,
+   "tz_name": "函数的表示方法"
   },
   "cnm_h031": {
    "name": "分段函数",
@@ -3434,15 +3448,15 @@
    "name": "函数的最大（小）值",
    "grade": 10,
    "grade_id": 501,
-   "knowledge_id": 20174,
-   "tz_name": "函数"
+   "knowledge_id": 204251,
+   "tz_name": "函数的最大（小）值"
   },
   "cnm_h035": {
    "name": "函数的奇偶性",
    "grade": 10,
    "grade_id": 501,
-   "knowledge_id": 25391,
-   "tz_name": "正弦函数的奇偶性"
+   "knowledge_id": 204258,
+   "tz_name": "函数的奇偶性"
   },
   "cnm_h037": {
    "name": "幂函数",
@@ -3476,8 +3490,8 @@
    "name": "指数函数的概念",
    "grade": 10,
    "grade_id": 501,
-   "knowledge_id": 20174,
-   "tz_name": "函数"
+   "knowledge_id": 204322,
+   "tz_name": "指数函数的概念与表示"
   },
   "cnm_h042": {
    "name": "指数函数的性质",
@@ -3567,8 +3581,8 @@
    "name": "任意角",
    "grade": 10,
    "grade_id": 501,
-   "knowledge_id": 200742,
-   "tz_name": "角"
+   "knowledge_id": 204346,
+   "tz_name": "任意角"
   },
   "cnm_h056": {
    "name": "终边相同的角",
@@ -3730,6 +3744,27 @@
    "grade_id": 601,
    "knowledge_id": 25193,
    "tz_name": "平面向量"
+  },
+  "cnm_h080": {
+   "name": "相等向量与共线向量",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 204347,
+   "tz_name": "相等向量"
+  },
+  "cnm_h081": {
+   "name": "向量加法",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 204283,
+   "tz_name": "平面向量加法运算"
+  },
+  "cnm_h082": {
+   "name": "向量减法",
+   "grade": 11,
+   "grade_id": 601,
+   "knowledge_id": 204305,
+   "tz_name": "平面向量减法运算"
   },
   "cnm_h083": {
    "name": "向量数乘",
@@ -4001,8 +4036,8 @@
    "name": "随机事件",
    "grade": 11,
    "grade_id": 601,
-   "knowledge_id": 20474,
-   "tz_name": "随机事件I"
+   "knowledge_id": 204300,
+   "tz_name": "随机事件"
   },
   "cnm_h137": {
    "name": "古典概型",
@@ -4067,12 +4102,19 @@
    "knowledge_id": 25196,
    "tz_name": "向量的模"
   },
+  "cnm_h149": {
+   "name": "空间向量基本定理",
+   "grade": 12,
+   "grade_id": 30100,
+   "knowledge_id": 204292,
+   "tz_name": "空间向量基本定理"
+  },
   "cnm_h150": {
    "name": "空间向量的正交分解",
    "grade": 12,
    "grade_id": 30100,
-   "knowledge_id": 25546,
-   "tz_name": "空间向量的正交分解及其坐标表示"
+   "knowledge_id": 204330,
+   "tz_name": "空间向量的正交分解及坐标表示"
   },
   "cnm_h151": {
    "name": "空间直角坐标系",
@@ -4358,8 +4400,8 @@
    "name": "通项公式",
    "grade": 13,
    "grade_id": 30200,
-   "knowledge_id": 25171,
-   "tz_name": "等差数列的通项公式"
+   "knowledge_id": 204287,
+   "tz_name": "数列的通项公式"
   },
   "cnm_h201": {
    "name": "等差数列的概念",
@@ -4374,6 +4416,13 @@
    "grade_id": 30200,
    "knowledge_id": 25171,
    "tz_name": "等差数列的通项公式"
+  },
+  "cnm_h203": {
+   "name": "等差中项",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 204313,
+   "tz_name": "等差中项"
   },
   "cnm_h204": {
    "name": "等差数列的前 n 项和",
@@ -4452,12 +4501,19 @@
    "knowledge_id": 25690,
    "tz_name": "数学归纳法"
   },
+  "cnm_h215": {
+   "name": "平均变化率",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 204365,
+   "tz_name": "平均变化率"
+  },
   "cnm_h216": {
    "name": "瞬时变化率与极限思想",
    "grade": 13,
    "grade_id": 30200,
-   "knowledge_id": 200703,
-   "tz_name": "时"
+   "knowledge_id": 204341,
+   "tz_name": "瞬时变化率"
   },
   "cnm_h217": {
    "name": "导数的概念",
@@ -4470,8 +4526,8 @@
    "name": "导函数",
    "grade": 13,
    "grade_id": 30200,
-   "knowledge_id": 20174,
-   "tz_name": "函数"
+   "knowledge_id": 204293,
+   "tz_name": "基本初等函数导函数公式"
   },
   "cnm_h219": {
    "name": "导数的几何意义",
@@ -4493,6 +4549,13 @@
    "grade_id": 30200,
    "knowledge_id": 108827,
    "tz_name": "基本初等函数"
+  },
+  "cnm_h222": {
+   "name": "导数的四则运算",
+   "grade": 13,
+   "grade_id": 30200,
+   "knowledge_id": 204242,
+   "tz_name": "导数的四则运算"
   },
   "cnm_h223": {
    "name": "简单复合函数的导数",
@@ -4575,8 +4638,8 @@
    "name": "条件概率",
    "grade": 14,
    "grade_id": 30300,
-   "knowledge_id": 201243,
-   "tz_name": "概率"
+   "knowledge_id": 204290,
+   "tz_name": "条件概率"
   },
   "cnm_h245": {
    "name": "概率的乘法公式",
@@ -4603,8 +4666,8 @@
    "name": "条件概率与独立性",
    "grade": 14,
    "grade_id": 30300,
-   "knowledge_id": 201243,
-   "tz_name": "概率"
+   "knowledge_id": 204290,
+   "tz_name": "条件概率"
   },
   "cnm_h249": {
    "name": "离散型随机变量",
@@ -5530,18 +5593,6 @@
    "grade_id": 402
   },
   {
-   "topicId": "cnm_284",
-   "name": "随机事件、必然事件与不可能事件",
-   "grade": 9,
-   "grade_id": 402
-  },
-  {
-   "topicId": "cnm_315",
-   "name": "综合与实践：用随机试验检验游戏的公平性（补充课题）",
-   "grade": 9,
-   "grade_id": 402
-  },
-  {
    "topicId": "cnm_h004",
    "name": "描述法",
    "grade": 10,
@@ -5582,24 +5633,6 @@
    "name": "用诱导公式求值",
    "grade": 10,
    "grade_id": 501
-  },
-  {
-   "topicId": "cnm_h080",
-   "name": "相等向量与共线向量",
-   "grade": 11,
-   "grade_id": 601
-  },
-  {
-   "topicId": "cnm_h081",
-   "name": "向量加法",
-   "grade": 11,
-   "grade_id": 601
-  },
-  {
-   "topicId": "cnm_h082",
-   "name": "向量减法",
-   "grade": 11,
-   "grade_id": 601
   },
   {
    "topicId": "cnm_h084",
@@ -5710,12 +5743,6 @@
    "grade_id": 30100
   },
   {
-   "topicId": "cnm_h149",
-   "name": "空间向量基本定理",
-   "grade": 12,
-   "grade_id": 30100
-  },
-  {
    "topicId": "cnm_h152",
    "name": "空间向量的坐标",
    "grade": 12,
@@ -5766,24 +5793,6 @@
   {
    "topicId": "cnm_h200",
    "name": "简单递推关系",
-   "grade": 13,
-   "grade_id": 30200
-  },
-  {
-   "topicId": "cnm_h203",
-   "name": "等差中项",
-   "grade": 13,
-   "grade_id": 30200
-  },
-  {
-   "topicId": "cnm_h215",
-   "name": "平均变化率",
-   "grade": 13,
-   "grade_id": 30200
-  },
-  {
-   "topicId": "cnm_h222",
-   "name": "导数的四则运算",
    "grade": 13,
    "grade_id": 30200
   },
