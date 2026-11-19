@@ -314560,5 +314560,848 @@
     "prompt": "甲、乙两人参加“环保知识”竞赛,经过 6 轮比赛,他们的平均成绩都是 97 分.如果甲、乙两人比赛成绩的方差分别为 s _甲 ² =6.67 , s _乙 ² =2.50 ,则这 6 次比赛成绩比较稳定的是______ .(填“甲”或“乙”)",
     "answer": "乙",
     "explanation": "∵s _甲 ² =6.67 , s _乙 ² =2.50 , ∴s _甲 ² = > s _乙 ² , ∴ 这 6 次比赛成绩比较稳定的是乙, 故答案为:乙. 根据方差的意义求解可得. 本题主要考查方差,解题的关键是掌握方差的意义."
+  },
+  {
+    "id": "cnm_h222_q5",
+    "topicId": "cnm_h222",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "函数 f (x)=ln x - x +1的图像在点(1, f (1))处的切线方程是()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "y =0"
+      },
+      {
+        "key": "B",
+        "text": "x =0"
+      },
+      {
+        "key": "C",
+        "text": "y =1"
+      },
+      {
+        "key": "D",
+        "text": "x =1"
+      }
+    ],
+    "answer": "A",
+    "explanation": "求出导函数,求出切线斜率和切点,从而求出切线方程。 解: , , ,则 ,所以切点为 ,切线的斜率为 ,切线方程为 。 故答案为:A"
+  },
+  {
+    "id": "cnm_h222_q6",
+    "topicId": "cnm_h222",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "已知可导函数f(x)的定义域为(-∞,0),其导函数f ' (x)满足xf ' (x)+2f(x)>0,则不等式(x+2024) 2 •f(x+2024)-f(-1)<0的解集为()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "(-2025,-2024)"
+      },
+      {
+        "key": "B",
+        "text": "(-2024,-2023)"
+      },
+      {
+        "key": "C",
+        "text": "(-∞,-2024)"
+      },
+      {
+        "key": "D",
+        "text": "(-∞,-2023)"
+      }
+    ],
+    "answer": "A",
+    "explanation": "构造函数 ,利用导数研究其单调性;则原不等式可转化为 ,结合函数的单调性即可得解。 解:令 ,则 ,所以 在 上递减。 不等式 可变形为 ,即 ,所以 且 ,即 。 故答案为:A。"
+  },
+  {
+    "id": "cnm_p061_q5",
+    "topicId": "cnm_p061",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "小林参加赛跑比赛,他大约用18秒跑了100()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "米"
+      },
+      {
+        "key": "B",
+        "text": "分"
+      },
+      {
+        "key": "C",
+        "text": "厘米"
+      }
+    ],
+    "answer": "A",
+    "explanation": "小林参加赛跑比赛,他大约用18秒跑了100米。 故选:A。"
+  },
+  {
+    "id": "cnm_p061_q6",
+    "topicId": "cnm_p061",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "3时45分再过10分钟后是()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "3时35分"
+      },
+      {
+        "key": "B",
+        "text": "3时55分"
+      },
+      {
+        "key": "C",
+        "text": "4时45分"
+      }
+    ],
+    "answer": "B",
+    "explanation": "3时45分再过10分是3时55分。 故选:B。"
+  },
+  {
+    "id": "cnm_h223_q7",
+    "topicId": "cnm_h223",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "设f(x)、g(x)分别是定义在R上的奇函数和偶函数,当x<0时,f′(x)·g(x)+f(x)·g′(x)>0,且f(-3)·g(-3)=0,则不等式f(x)·g(x)<0的解集是()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "(-3,0)∪(3,+∞)"
+      },
+      {
+        "key": "B",
+        "text": "(-3,0)∪ (0,3)"
+      },
+      {
+        "key": "C",
+        "text": "(-∞,-3)∪(3,+∞)"
+      },
+      {
+        "key": "D",
+        "text": "(-∞,-3)∪(0,3)"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设F(x)=\"f\" (x)g(x),当x<0时,∵F′(x)=f′(x)g(x)+f (x)g′(x)>0.∴F(x)在当x<0时为增函数. ∵F(-x)=\"f\" (-x)g (-x)=\"-f\" (x)•g (x)=-F(x). 故F(x)为(-∞,0)∪(0,+∞)上的奇函数. ∴F(x)在(0,∞)上亦为增函数. 已知f(-3)·g(-3)=0,必有F(-3)=F(3)=0. 构造如图的F(x)的图象, 可知F(x)<0的解集为x∈(-∞,-3)∪(0,3). 导数是一个新内容,也是高考的热点问题,要多注意复习.解决该试题的关键是先根据f’(x)g(x)+f(x)g’(x)>0可确定[f(…"
+  },
+  {
+    "id": "cnm_h250_q7",
+    "topicId": "cnm_h250",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "妈妈骑自行车行1千米需要的时间大约是()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "20秒"
+      },
+      {
+        "key": "B",
+        "text": "4分"
+      },
+      {
+        "key": "C",
+        "text": "1小时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "妈妈骑自行车行1千米需要的时间大约是4分钟。 故选:B。"
+  },
+  {
+    "id": "cnm_h250_q8",
+    "topicId": "cnm_h250",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "小明9:20到电影院时,电影已经开始了半小时,电影是()开始的.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "8:50"
+      },
+      {
+        "key": "B",
+        "text": "9:50"
+      },
+      {
+        "key": "C",
+        "text": "9:00"
+      }
+    ],
+    "answer": "A",
+    "explanation": "0.5× 60=30(分), 9时20分-30分钟=8是50分. 答:小明9:20到电影院时,电影已经开始了半小时,电影是8:50开始的. 故选:A."
+  },
+  {
+    "id": "cnm_p018_q7",
+    "topicId": "cnm_p018",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "体育课上14个小朋友排成队,小华的前面有4人,后面有几人?()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "10"
+      },
+      {
+        "key": "B",
+        "text": "9"
+      },
+      {
+        "key": "C",
+        "text": "8"
+      }
+    ],
+    "answer": "B",
+    "explanation": "14-4-1 =10-1 =9(人) 答:后面有9人。 故选:B。"
+  },
+  {
+    "id": "cnm_p018_q8",
+    "topicId": "cnm_p018",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "在算式12+3=15中,15是()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "加数"
+      },
+      {
+        "key": "B",
+        "text": "和"
+      },
+      {
+        "key": "C",
+        "text": "差"
+      }
+    ],
+    "answer": "B",
+    "explanation": "在算式12+3=15中,15是和。 故选:B。"
+  },
+  {
+    "id": "cnm_p127_q7",
+    "topicId": "cnm_p127",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "在中国剪纸艺术中,用得最多的图形运动是()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "平移"
+      },
+      {
+        "key": "B",
+        "text": "轴对称"
+      },
+      {
+        "key": "C",
+        "text": "旋转"
+      }
+    ],
+    "answer": "B",
+    "explanation": "在中国剪纸艺术中,用得最多的图形运动是轴对称。 故选:B。"
+  },
+  {
+    "id": "cnm_p127_q8",
+    "topicId": "cnm_p127",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "轿车在高速公路上行驶,轿车车轮的运动就是()现象.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "平移"
+      },
+      {
+        "key": "B",
+        "text": "旋转"
+      },
+      {
+        "key": "C",
+        "text": "轴对称"
+      }
+    ],
+    "answer": "B",
+    "explanation": "轿车在高速公路上行驶,轿车车轮的运动就是旋转现象; 故选:B. 平移是物体运动时,物体上任意两点间,从一点到另一点的方向与距离都不变的运动. 旋转是物体运动时,每一个点离同一个点(可以在物体外)的距离不变的运动,称为绕这个点的转动,这个点称为物体的转动中心. 此题主要考查了旋转和平移在生活当中的应用."
+  },
+  {
+    "id": "cnm_p167_q7",
+    "topicId": "cnm_p167",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "一个分数的分子乘以 6 ,要使它的大小不变,分母必须 ()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "乘 6"
+      },
+      {
+        "key": "B",
+        "text": "除以 6"
+      },
+      {
+        "key": "C",
+        "text": "不变"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据分数的基本性质可知,分数的分子和分母同时乘或除以一个相同的数 (0 除外) 分数的大小不变,所以分子乘以 6 ,分母也必须乘 6 ; 故选: A. 根据分数的基本性质可知,分数的分子和分母同时乘或除以一个相同的数 (0 除外) 分数的大小不变,所以分子乘以 6 ,分母也必须乘 6 ,由此选择即可. 此题考查了分数的基本性质,注意分数的基本性质是分子、分母必须同时乘和除一个相同的数 (0 除外)."
+  },
+  {
+    "id": "cnm_p167_q8",
+    "topicId": "cnm_p167",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "一个分数的分子和分母的最大公因数是 6 ,约分后是 (2/7) ,这个分数是 ()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "(4/14)"
+      },
+      {
+        "key": "B",
+        "text": "(12/42)"
+      },
+      {
+        "key": "C",
+        "text": "(14/49)"
+      }
+    ],
+    "answer": "B",
+    "explanation": "(2/7)=(2×6/7× 6)=(12/42) 故选: B. 把 (2/7) 的分子和分母同时乘最大公因数是 6 即可. 分数的分子和分母同时乘或者除以相同的数 (0 除外) ,分数的大小不变.这叫做分数的基本性质."
+  },
+  {
+    "id": "cnm_026_q7",
+    "topicId": "cnm_026",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "在下列表达式中,不能表示代数式“6a”意义的是()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "6个a相乘"
+      },
+      {
+        "key": "B",
+        "text": "a的6倍"
+      },
+      {
+        "key": "C",
+        "text": "6个a相加"
+      },
+      {
+        "key": "D",
+        "text": "6的a倍"
+      }
+    ],
+    "answer": "A",
+    "explanation": "代数式“6a”意义是6与a相乘,故B、C、D正确; A、6个a相乘表示为:a 6 ,故命题错误. 故选A. 代数式“6a”意义是6与a相乘,根据乘法的意义即可判断. 本题考查了代数式的意义,理解乘法的意义是关键."
+  },
+  {
+    "id": "cnm_026_q8",
+    "topicId": "cnm_026",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "下列各式中是代数式的是()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "a 2 -b 2 =0"
+      },
+      {
+        "key": "B",
+        "text": "4>3"
+      },
+      {
+        "key": "C",
+        "text": "a"
+      },
+      {
+        "key": "D",
+        "text": "5x-2≠0"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A:a 2 -b 2 =0为等式,不为代数式,故本项错误. B:4>3为不等式,故本项错误. C;a为代数式,故本项正确. D:5x-2≠0为不等式,故本项错误. 故选:C. 本题根据代数式的定义对各选项进行分析即可求出答案. 本题考查代数式的定义,对各选项进行判定即可,注意等式,不等式不为代数式."
+  },
+  {
+    "id": "cnm_h026_q7",
+    "topicId": "cnm_h026",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "下表是某批发市场的一种益智玩具的销售价格: 一次购买件数 5-10件 11-50件 51-100件 101-300件 300件以上 每件价格 37元 32元 30元 27元 25元 张师傅准备用2900元到该批发市场购买这种玩具,赠送给一所幼儿园,张师傅最多可买这种玩具()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "116件"
+      },
+      {
+        "key": "B",
+        "text": "110件"
+      },
+      {
+        "key": "C",
+        "text": "107件"
+      },
+      {
+        "key": "D",
+        "text": "106件"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设购买的件数为x,花费为y元, 由题意得当1leqslant xleqslant 10时,y=37x, 当11leqslant xleqslant 50时,y=32x, 当51leqslant xleqslant 100时,y=30x, 当101leqslant xleqslant 300时,y=27x, 当x gt 300时,y=25x, therefore 当x=107时,y=2889 lt 2990, 当x=108时,y=2916 gt 2900,故最多可购买这种产品107件. 故选:C."
+  },
+  {
+    "id": "cnm_h026_q8",
+    "topicId": "cnm_h026",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "下表是某批发市场的一种益智玩具的销售价格: 一次购买件数 5-10件 11-50件 51-100件 101-300件 300件以上 每件价格 37元 32元 30元 27元 25元 张师傅准备用2900元到该批发市场购买这种玩具,赠送给一所幼儿园,张师傅最多可买这种玩具()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "116件"
+      },
+      {
+        "key": "B",
+        "text": "110件"
+      },
+      {
+        "key": "C",
+        "text": "107件"
+      },
+      {
+        "key": "D",
+        "text": "106件"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设购买的件数为x,花费为y元, 由题意得当1leqslant xleqslant 10时,y=37x, 当11leqslant xleqslant 50时,y=32x, 当51leqslant xleqslant 100时,y=30x, 当101leqslant xleqslant 300时,y=27x, 当x gt 300时,y=25x, therefore 当x=107时,y=2889 lt 2990, 当x=108时,y=2916 gt 2900,故最多可购买这种产品107件. 故选:C."
+  },
+  {
+    "id": "cnm_h173_q7",
+    "topicId": "cnm_h173",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "下列说法:1把弯曲的河道改直,能够缩短航程,这是因为两点之间,线段最短;2若线段 AC=BC ,则 C 是线段 AB 的中点;3 -a 一定是负数;4非负数的任何次幂都是非负数;5一个角的补角大于这个角本身.其中正确的个数为 ()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "1把弯曲的河道改直,能够缩短航程,这是因为两点之间,线段最短,故1正确; 2当点 C 在线段 AB 上时,若线段 AC=BC ,则 C 是线段 AB 的中点,故2错误; 3当 a>0 时, -a 一定是负数,故3错误; 4非负数的任何次幂都是非负数,故4正确; 5一个锐角的补角大于这个角本身,故5错误; ∴ 正确的有14,共 2 个. 故选: B. 根据两点之间,线段最短,线段中点的定义,负数,乘方,补角的性质,逐项判断即可求解. 本题主要考查两点之间,线段最短,线段中点的定义,负数,乘方,补角的性质,熟练掌握相关知识点是解题的关键."
+  },
+  {
+    "id": "cnm_h173_q8",
+    "topicId": "cnm_h173",
+    "difficulty": "challenge",
+    "type": "choice",
+    "prompt": "已知点 A ({ 2,0 }) , B ({ 0,2 }) ,点 P 在 x 轴上,且三角形 APB 的面积为 5 ,则点 P 的坐标是()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "({ -3,0 })"
+      },
+      {
+        "key": "B",
+        "text": "({ 7,0 })"
+      },
+      {
+        "key": "C",
+        "text": "({ 0,-3 }) 或 ({ 0,7 })"
+      },
+      {
+        "key": "D",
+        "text": "({ -3,0 }) 或 ({ 7,0 })"
+      }
+    ],
+    "answer": "D",
+    "explanation": "由题意可得: 设点P坐标为(x,0) 则 AP=|x-2| ,OA=2 ∴S_ △ APB =(1/2)AP⋅OA=5 ,即 (1/2)|x-2|× 2=5 解得:x=-3或x=7 则点p坐标为: ({ -3,0 }) 或 ({ 7,0 }) 故答案为:D 设点P坐标为(x,0),则 AP=|x-2| ,OA=2,根据三角形面积公式即可求出答案."
+  },
+  {
+    "id": "cnm_h226_q7",
+    "topicId": "cnm_h226",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "函数f(x)=x 3 +ax 2 +bx+a 2 在x=1时有极值为10,则a+b的值为 ____",
+    "answer": "-7",
+    "explanation": "对函数f(x)求导得 f′(x)=3x 2 +2ax+b, 又∵在x=1时f(x)有极值10, ∴ 验证知,当a=-3,b=3时,在x=1无极值, 故 a+b的值-7. 故答案为:-7 首先对f(x)求导,然后由题设在x=1时有极值10可得 , 解方程得出a,b的值,最后求它们的即可."
+  },
+  {
+    "id": "cnm_h226_q8",
+    "topicId": "cnm_h226",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "函数f(x)=ax 3 -3x+1 对于x∈[-1,1]总有f(x)≥0成立,则a 的取值范围为()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "[2,+∞)"
+      },
+      {
+        "key": "B",
+        "text": "[4,+∞)"
+      },
+      {
+        "key": "C",
+        "text": "{4}"
+      },
+      {
+        "key": "D",
+        "text": "[2,4]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "1当x=0时,f(x)=1≥0,对于a∈R皆成立. 2当0<x≤1时,若总有f(x)≥0,则ax 3 -3x+1≥0,∴ , 令g(x)= ,g ′ (x)= = ,令g ′ (x)=0,解得x= . 当0 时,g ′ (x)>0;当 时,g ′ (x)<0. ∴g(x)在x= 时取得最大值,g()=4,∴a≥4. 3当-1≤x<0时,若总有f(x)=0,则 ax 3 -3x+1≥0,∴a≤ . 令h(x)= ,则h ′ (x)= ≥0, ∴h(x)在[-1,0)上单调递增, ∴当x=-1时,h(x)取得最小值,h(-1)=4,∴a≤4. 由123可知:若函数f(x)=ax 3 -3x+1 对…"
+  },
+  {
+    "id": "cnm_p128_q5",
+    "topicId": "cnm_p128",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "妈妈推拉窗户,是 () 现象。",
+    "choices": [
+      {
+        "key": "A",
+        "text": "平移"
+      },
+      {
+        "key": "B",
+        "text": "旋转"
+      },
+      {
+        "key": "C",
+        "text": "对称"
+      },
+      {
+        "key": "D",
+        "text": "不清楚"
+      }
+    ],
+    "answer": "A",
+    "explanation": "妈妈推拉窗户,是平移现象。 故选: A 。 平移是物体运动时,物体上任意两点间,从一点到另一点的方向与距离都不变的运动,平移后图形的位置改变,形状、大小不变,据此解答即可。 根据平移的定义,解答此题即可。"
+  },
+  {
+    "id": "cnm_p128_q6",
+    "topicId": "cnm_p128",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "下列现象是平移的是 ()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "车轮转动"
+      },
+      {
+        "key": "B",
+        "text": "推拉抽屉"
+      },
+      {
+        "key": "C",
+        "text": "电扇转动"
+      }
+    ],
+    "answer": "B",
+    "explanation": "推拉抽屉是平移现象。车轮转动、电扇转动是旋转现象。 故选: B 。 平移:在平面内,将一个图形上的所有点都按照某个方向作相同距离移动的图形运动。平移后图形的位置改变,形状、大小、方向不变。 旋转:在平面内,将一个图形绕一点按某个方向转动一定的角度,这样的运动叫做图形的旋转。这个定点叫做旋转中心,转动的角度叫做旋转角。旋转前后图形的位置和方向改变,形状、大小不变。 此题考查了平移与旋转的意义及在实际当中的运用。"
+  },
+  {
+    "id": "cnm_p168_q7",
+    "topicId": "cnm_p168",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "一个最简真分数,分子、分母的和是15,这样的分数有()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "3个"
+      },
+      {
+        "key": "B",
+        "text": "4个"
+      },
+      {
+        "key": "C",
+        "text": "5个"
+      },
+      {
+        "key": "D",
+        "text": "2个"
+      }
+    ],
+    "answer": "B",
+    "explanation": "一个最简真分数,分子与分母的和是15,这样的分数一共有4个. 故选:B. 根据分数的意义写出真分数,使分子与分母的和是15,有 , , , , , , 共7个,其中 , , 不是最简分数,由此得解. 此题考查了最简分数,最简真分数就是不能再化简的分数,即分子、分母互质,且分子小于分母的分数."
+  },
+  {
+    "id": "cnm_p168_q8",
+    "topicId": "cnm_p168",
+    "difficulty": "standard",
+    "type": "short",
+    "prompt": "把一个分数约分后,分数的大小和分数单位都不变.______.(判断对错)",
+    "answer": "错误",
+    "explanation": "根据约分的意义,把一个分数约分后,分数的大小不变,但是分数单位变了,分数单位比原来大了. 所以,把一个分数约分后,分数的大小和分数单位都不变.这种说法是错误的. 故答案为:错误. 根据约分的意义,把一个分数化成大小和原来相等但分子和分母都比较小的分数叫做约分.由此解答. 此题考查的目的是理解约分的意义掌握约分的方法."
+  },
+  {
+    "id": "cnm_p188_q7",
+    "topicId": "cnm_p188",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "两个圆的面积不相等,是因为它们的 ()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "圆心的位置不同"
+      },
+      {
+        "key": "B",
+        "text": "半径的长度不同"
+      },
+      {
+        "key": "C",
+        "text": "圆周率大小不同"
+      }
+    ],
+    "answer": "B",
+    "explanation": "因为圆心决定圆的位置,半径决定圆的大小. 所以两个圆的面积不相等,是因为它们的半径的长度不相等. 故选: B. 圆心决定圆的位置,半径决定圆的大小.据此解答即可. 此题考查的目的是理解掌握圆的特征,圆面积的意义及应用.明确:圆心决定圆的位置,半径决定圆的大小."
+  },
+  {
+    "id": "cnm_p188_q8",
+    "topicId": "cnm_p188",
+    "difficulty": "standard",
+    "type": "short",
+    "prompt": "两个圆面积相等,那么它们的周长也一定相等.______ .(判断对错)",
+    "answer": "正确",
+    "explanation": "因为圆周率是一定的,两个圆的面积相等,两个圆的半径一定相等,所以它们的周长一定相等. 故答案为:正确. 根据圆的面积公式: s=πr² ,周长公式: c=2πr ,两个圆的面积相等,因为圆周率是一定的,两个圆的半径一定相等,所以它们的周长一定相等. 此题主要考查圆的周长和面积的计算方法的灵活应用."
+  },
+  {
+    "id": "cnm_027_q7",
+    "topicId": "cnm_027",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "苹果原价是每斤a元,现在按8折出售,假如现在要买一斤,那么需要付费()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "0.8a元"
+      },
+      {
+        "key": "B",
+        "text": "0.2a元"
+      },
+      {
+        "key": "C",
+        "text": "1.8a元"
+      },
+      {
+        "key": "D",
+        "text": "(a+0.8)元"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意知,买一斤需要付费0.8a元, 故选:A."
+  },
+  {
+    "id": "cnm_027_q8",
+    "topicId": "cnm_027",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "锂电池是电动汽车的关键部件,我国的锂电池正突破重围,势不可挡.规定充电时长为正,耗电时长为负,若新能源汽车快充充电0.5小时记作+0.5小时,那么新能源汽车连续性耗电8小时记作()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "+0.5小时"
+      },
+      {
+        "key": "B",
+        "text": "-0.5小时"
+      },
+      {
+        "key": "C",
+        "text": "+8小时"
+      },
+      {
+        "key": "D",
+        "text": "-8小时"
+      }
+    ],
+    "answer": "D",
+    "explanation": "新能源汽车快充充电0.5小时记作+0.5小时,那么新能源汽车连续性耗电8小时记作-8小时, 故选:D."
+  },
+  {
+    "id": "cnm_h174_q5",
+    "topicId": "cnm_h174",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "定义:直线l 1 与l 2 相交于点O,对于平面内任意一点M,点M到直线l 1 、l 2 的距离分别为p、q,则称有序实数对(p,q)是点M的“距离坐标”,根据上述定义,“距离坐标”是(1,2)的点的个数是()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      }
+    ],
+    "answer": "C",
+    "explanation": "如图, ∵到直线l 1 的距离是1的点在与直线l 1 平行且与l 1 的距离是1的两条平行线a 1 、a 2 上, 到直线l 2 的距离是2的点在与直线l 2 平行且与l 2 的距离是2的两条平行线b 1 、b 2 上, ∴“距离坐标”是(1,2)的点是M 1 、M 2 、M 3 、M 4 ,一共4个. 故选C."
+  },
+  {
+    "id": "cnm_h174_q6",
+    "topicId": "cnm_h174",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "定义:平面内的直线l 1 与l 2 相交于点O,对于该平面内任意一点M,点M到直线l 1 、l 2 的距离分别为a、b,则称有序非实数对(a,b)是点M的“距离坐标”,根据上述定义,距离坐标为(2,3)的点的个数是()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "3"
+      }
+    ],
+    "answer": "C",
+    "explanation": "如图所示,所求的点有4个, 故选C."
+  },
+  {
+    "id": "cnm_h227_q5",
+    "topicId": "cnm_h227",
+    "difficulty": "challenge",
+    "type": "choice",
+    "prompt": "已知正三角形ABC的边长为4,点P在边BC上,则 oversetrightarrow { AP }⋅oversetrightarrow { BP } 的最小值为()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "-2"
+      },
+      {
+        "key": "D",
+        "text": "-1"
+      }
+    ],
+    "answer": "D",
+    "explanation": "记 | { oversetrightarrow { BP } } |=x , x∈[0,4] 因为 oversetrightarrow { AP }=oversetrightarrow { BP }-oversetrightarrow { BA } , 所以 oversetrightarrow { AP }⋅oversetrightarrow { BP }=oversetrightarrow { BP } ^ 2 -oversetrightarrow { BA }⋅oversetrightarrow { BP }= | { oversetrightarrow { BP } } | ^ 2 -2…"
+  },
+  {
+    "id": "cnm_h227_q6",
+    "topicId": "cnm_h227",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "函数y=x²+2x+1,x∈ [-2,2],则()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "函数有最小值0,最大值9"
+      },
+      {
+        "key": "B",
+        "text": "函数有最小值2,最大值5"
+      },
+      {
+        "key": "C",
+        "text": "函数有最小值2,最大值9"
+      },
+      {
+        "key": "D",
+        "text": "函数有最小值0,最大值5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "because y=x²+2x+1, therefore y’=2x+2, 由y’=2x+2=0,得x=-1, 设f(x)=y=x²+2x+1, because f(-2)=4-4+1=1, f(-1)=1-2+1=0, f(2)=4+4+1=9. therefore 函数有最小值0,最大值9. 故选A."
+  },
+  {
+    "id": "cnm_h253_q7",
+    "topicId": "cnm_h253",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "如表记录了甲、乙、丙、丁四个科技创新小组最近几次选拔赛成绩的平均数和方差,如果要选出一个成绩较好且状态稳定的小组去参赛,那么应选的小组是() 甲 乙 丙 丁 平均数 88 92 92 88 方差 0.9 1.5 1 1.8",
+    "choices": [
+      {
+        "key": "A",
+        "text": "甲"
+      },
+      {
+        "key": "B",
+        "text": "乙"
+      },
+      {
+        "key": "C",
+        "text": "丙"
+      },
+      {
+        "key": "D",
+        "text": "丁"
+      }
+    ],
+    "answer": "C",
+    "explanation": "由表格知,丙的平均数最大且方差最小, 所以丙组的成绩较好且状态稳定, 所以应选的小组是丙, 故选:C."
+  },
+  {
+    "id": "cnm_h253_q8",
+    "topicId": "cnm_h253",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "甲、乙两位同学进行\"汉字拼写\"训练,他们5次训练成绩的平均数均为90分,方差分别为S_甲²=8.2,S_乙²=12,则下列对两位同学成绩的稳定性描述正确的是()",
+    "choices": [
+      {
+        "key": "A",
+        "text": "甲更稳定"
+      },
+      {
+        "key": "B",
+        "text": "乙更稳定"
+      },
+      {
+        "key": "C",
+        "text": "一样稳定"
+      },
+      {
+        "key": "D",
+        "text": "无法确定"
+      }
+    ],
+    "answer": "A",
+    "explanation": "because S{}_甲²=8.2 lt S{}_乙²=12, therefore 甲比乙的成绩稳定. 故选:A."
   }
 ]
