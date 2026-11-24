@@ -9215,6 +9215,258 @@
    "tz_difficulty": 3.0,
    "grade_id": 30300,
    "at": "2026-11-23T08:04:42.974614+00:00"
+  },
+  "e49c80c5e138d0f17cf39542caee5846": {
+   "tz_id": 32900632,
+   "topicId": "cnm_p020",
+   "qid": "cnm_p020_q5",
+   "source": "人教版数学2022-2023学年一年级上册8.1 9加几",
+   "year": 2023,
+   "paper_type": "37",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 3.0,
+   "grade_id": 111,
+   "at": "2026-11-24T10:20:45.436531+00:00"
+  },
+  "caa7e849cd4b3b968b13fdfe4f8d8e53": {
+   "tz_id": 32900633,
+   "topicId": "cnm_p020",
+   "qid": "cnm_p020_q6",
+   "source": "人教版数学2022-2023学年一年级上册8.1 9加几",
+   "year": 2023,
+   "paper_type": "37",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 3.0,
+   "grade_id": 111,
+   "at": "2026-11-24T10:20:45.437192+00:00"
+  },
+  "4f91859fc604f24971d9319fdd7b4a8c": {
+   "tz_id": 35842479,
+   "topicId": "cnm_p072",
+   "qid": "cnm_p072_q6",
+   "source": "2023-2024学年山东省临沂市平邑县二年级（上）期末数学试卷",
+   "year": 2024,
+   "paper_type": "34",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 2.0,
+   "grade_id": 122,
+   "at": "2026-11-24T10:20:47.463456+00:00"
+  },
+  "53f7a184c800ab0f5524015381cc777b": {
+   "tz_id": 35981708,
+   "topicId": "cnm_p072",
+   "qid": "cnm_p072_q7",
+   "source": "2023-2024学年新疆巴音郭楞州博湖县第二集团二年级（上）期中数学试卷",
+   "year": 2024,
+   "paper_type": "35",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 2.0,
+   "grade_id": 122,
+   "at": "2026-11-24T10:20:47.464053+00:00"
+  },
+  "17b8a5bebbb52d2bca37c8fecac1b7b9": {
+   "tz_id": 24591465,
+   "topicId": "cnm_h179",
+   "qid": "cnm_h179_q7",
+   "source": "新人教版九年级上册《第24章 圆》2020年单元测试卷（1）",
+   "year": 2020,
+   "paper_type": "38",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 1.0,
+   "grade_id": 30100,
+   "at": "2026-11-24T10:21:05.929335+00:00"
+  },
+  "525402e29ed1943bbcab358db17112de": {
+   "tz_id": 24591487,
+   "topicId": "cnm_h179",
+   "qid": "cnm_h179_q8",
+   "source": "新人教版九年级上册《第24章 圆》2020年单元测试卷",
+   "year": 2020,
+   "paper_type": "38",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 1.0,
+   "grade_id": 30100,
+   "at": "2026-11-24T10:21:05.930242+00:00"
+  },
+  "ddeca0610fdcb7e16489dbdd799ecccd": {
+   "tz_id": 17205088,
+   "topicId": "cnm_031",
+   "qid": "cnm_031_q7",
+   "source": "新人教版七年级数学上册《第2章整式的加减》2016年单元测试卷（3）",
+   "year": 2016,
+   "paper_type": "37",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 5.0,
+   "grade_id": 201,
+   "at": "2026-11-24T10:21:17.611184+00:00"
+  },
+  "de802480c147b7a2a2bbeefb0bb5cce8": {
+   "tz_id": 17205119,
+   "topicId": "cnm_031",
+   "qid": "cnm_031_q8",
+   "source": "新人教版七年级数学上册《2.1整式》2016年同步练习",
+   "year": 2016,
+   "paper_type": "38",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 4.0,
+   "grade_id": 201,
+   "at": "2026-11-24T10:21:17.611963+00:00"
+  },
+  "478132a2c6f961aeb5d4078abfe7afb4": {
+   "tz_id": 35587124,
+   "topicId": "cnm_h257",
+   "qid": "cnm_h257_q7",
+   "source": "2022-2023学年江西省赣州市全南中学高二（下）期末数学试卷",
+   "year": 2023,
+   "paper_type": "34",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 3.0,
+   "grade_id": 30300,
+   "at": "2026-11-24T10:21:24.223490+00:00"
+  },
+  "47b040761e742288572698957350cc02": {
+   "tz_id": 35593103,
+   "topicId": "cnm_p192",
+   "qid": "cnm_p192_q5",
+   "source": "2022-2023学年河南省郑州市惠济区六年级（上）学情调研数学试卷",
+   "year": 2023,
+   "paper_type": "37",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 3.0,
+   "grade_id": 161,
+   "at": "2026-11-24T10:21:33.348775+00:00"
+  },
+  "504a548874eeb5d086c8dc5757374329": {
+   "tz_id": 35865402,
+   "topicId": "cnm_p192",
+   "qid": "cnm_p192_q6",
+   "source": "人教版六年级下册《第4单元 比例》2024年同步练习卷（8）",
+   "year": 2024,
+   "paper_type": "38",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 2.0,
+   "grade_id": 161,
+   "at": "2026-11-24T10:21:33.349400+00:00"
+  },
+  "8f6d1fa23373706388de348092b0979f": {
+   "tz_id": 37865175,
+   "topicId": "cnm_032",
+   "qid": "cnm_032_q7",
+   "source": "人教新版七年级上册《2.1整式》2024年同步练习卷（4）",
+   "year": 2024,
+   "paper_type": "38",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 2.0,
+   "grade_id": 201,
+   "at": "2026-11-24T10:21:34.691933+00:00"
+  },
+  "9114e76f7c74593782873f5fedab71a2": {
+   "tz_id": 37917484,
+   "topicId": "cnm_032",
+   "qid": "cnm_032_q8",
+   "source": "2024-2025学年山东省德州市齐河县刘桥乡七年级（上）期中数学试卷",
+   "year": 2025,
+   "paper_type": "35",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 3.0,
+   "grade_id": 201,
+   "at": "2026-11-24T10:21:34.692985+00:00"
+  },
+  "4b25fab3604b437377da72356e5f7eff": {
+   "tz_id": 21812132,
+   "topicId": "cnm_121",
+   "qid": "cnm_121_q6",
+   "source": "2018-2019学年浙江省杭州市西湖区新东方学校八年级（下）月考数学试卷（607）",
+   "year": 2019,
+   "paper_type": "36",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 1.0,
+   "grade_id": 301,
+   "at": "2026-11-24T10:21:35.876142+00:00"
+  },
+  "aa0e24516974f820bd1cbd209ffd1880": {
+   "tz_id": 21816357,
+   "topicId": "cnm_121",
+   "qid": "cnm_121_q7",
+   "source": "2019-2020学年江苏省盐城市滨海县八年级（上）期中数学试卷",
+   "year": 2019,
+   "paper_type": "35",
+   "tz_question_type": "填空题",
+   "tz_difficulty": 1.0,
+   "grade_id": 301,
+   "at": "2026-11-24T10:21:35.876765+00:00"
+  },
+  "be58e9a196ba9ff19d296d1058064f99": {
+   "tz_id": 15569672,
+   "topicId": "cnm_h181",
+   "qid": "cnm_h181_q5",
+   "source": "2016秋•北流市校级月考",
+   "year": 2016,
+   "paper_type": "36",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 3.0,
+   "grade_id": 30100,
+   "at": "2026-11-24T10:21:40.332631+00:00"
+  },
+  "f1775a5a42dbd0c9b8bd663293b81f18": {
+   "tz_id": 15571414,
+   "topicId": "cnm_h181",
+   "qid": "cnm_h181_q6",
+   "source": "2016•博野县校级自主招生",
+   "year": 2016,
+   "paper_type": "37",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 3.0,
+   "grade_id": 30100,
+   "at": "2026-11-24T10:21:40.333147+00:00"
+  },
+  "d391d72bf46540d9a4c4a4ab15d195e6": {
+   "tz_id": 40023403,
+   "topicId": "cnm_h258",
+   "qid": "cnm_h258_q6",
+   "source": "2022-2023学年贵州省贵阳一中高二（下）质检数学试卷（五）",
+   "year": 2023,
+   "paper_type": "37",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 3.0,
+   "grade_id": 30300,
+   "at": "2026-11-24T10:21:41.339212+00:00"
+  },
+  "d53ff0c2cdbbb509ed64b4e53b656dc4": {
+   "tz_id": 40076743,
+   "topicId": "cnm_h258",
+   "qid": "cnm_h258_q7",
+   "source": "2023-2024学年陕西省宝鸡市千阳中学高二（下）期末数学试卷",
+   "year": 2024,
+   "paper_type": "34",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 3.0,
+   "grade_id": 30300,
+   "at": "2026-11-24T10:21:41.340046+00:00"
+  },
+  "178970e10752091f465084723e5bf9b6": {
+   "tz_id": 34069021,
+   "topicId": "cnm_p024",
+   "qid": "cnm_p024_q5",
+   "source": "2023-2024学年河南省南阳市新野县一年级（上）月考数学试卷（二）",
+   "year": 2024,
+   "paper_type": "36",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 2.0,
+   "grade_id": 112,
+   "at": "2026-11-24T10:21:42.432950+00:00"
+  },
+  "a7907de7fff0313c62344d7c0f111804": {
+   "tz_id": 38630523,
+   "topicId": "cnm_p024",
+   "qid": "cnm_p024_q6",
+   "source": "人教版一年级下册《第1单元 认识图形（二）》2024年单元达标测试卷（1）",
+   "year": 2024,
+   "paper_type": "37",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 3.0,
+   "grade_id": 112,
+   "at": "2026-11-24T10:21:42.433539+00:00"
   }
  },
  "runs": [
@@ -9446,6 +9698,19 @@
     "choice-dup": 2
    },
    "quota_remaining": 5
+  },
+  {
+   "at": "2026-11-24T10:21:44.541748+00:00",
+   "budget": 145,
+   "spent": 147,
+   "imported": 21,
+   "skipped": {
+    "latex-array": 4,
+    "type:多选题": 9,
+    "no-explanation": 19,
+    "choice-dup": 2
+   },
+   "quota_remaining": 3
   }
  ]
 }
