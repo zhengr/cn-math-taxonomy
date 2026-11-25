@@ -9467,6 +9467,162 @@
    "tz_difficulty": 3.0,
    "grade_id": 112,
    "at": "2026-11-24T10:21:42.433539+00:00"
+  },
+  "97e34679d5d19cae20763a27f766dac1": {
+   "tz_id": 38133631,
+   "topicId": "cnm_030",
+   "qid": "cnm_030_q7",
+   "source": "2023-2024学年上海市宝山区罗南中学七年级（上）第二次段考数学试卷",
+   "year": 2024,
+   "paper_type": "37",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 3.0,
+   "grade_id": 201,
+   "at": "2026-11-25T09:02:48.587985+00:00"
+  },
+  "982921f6d145dfebb3d5d11a038540b2": {
+   "tz_id": 38142338,
+   "topicId": "cnm_030",
+   "qid": "cnm_030_q8",
+   "source": "2023-2024学年四川省内江市威远中学七年级（上）期中数学试卷",
+   "year": 2024,
+   "paper_type": "35",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 3.0,
+   "grade_id": 201,
+   "at": "2026-11-25T09:02:48.588507+00:00"
+  },
+  "b212c75762df4dbf83862f870453fc37": {
+   "tz_id": 16255507,
+   "topicId": "cnm_033",
+   "qid": "cnm_033_q5",
+   "source": "2015年西藏中考数学试卷",
+   "year": 2015,
+   "paper_type": "39",
+   "tz_question_type": "填空题",
+   "tz_difficulty": 3.0,
+   "grade_id": 201,
+   "at": "2026-11-25T09:03:27.562498+00:00"
+  },
+  "f2c1080fac0c53883391a4929b176ea7": {
+   "tz_id": 16256912,
+   "topicId": "cnm_033",
+   "qid": "cnm_033_q6",
+   "source": "2015年广西柳州市中考数学试卷",
+   "year": 2015,
+   "paper_type": "39",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 3.0,
+   "grade_id": 201,
+   "at": "2026-11-25T09:03:27.563124+00:00"
+  },
+  "8016b112dbf07fc47a4ed1698fba6374": {
+   "tz_id": 29204471,
+   "topicId": "cnm_p192",
+   "qid": "cnm_p192_q7",
+   "source": "北师大版六年级上册《1.4 圆的面积》2018年同步练习卷",
+   "year": 2018,
+   "paper_type": "38",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 2.0,
+   "grade_id": 161,
+   "at": "2026-11-25T09:03:54.559850+00:00"
+  },
+  "388d73fd099f7edb451fff58f7e05b2e": {
+   "tz_id": 29212013,
+   "topicId": "cnm_p192",
+   "qid": "cnm_p192_q8",
+   "source": "北师大版六年级上册《第1单元 圆》2018年同步练习卷（6）",
+   "year": 2018,
+   "paper_type": "38",
+   "tz_question_type": "判断题",
+   "tz_difficulty": 2.0,
+   "grade_id": 161,
+   "at": "2026-11-25T09:03:54.560174+00:00"
+  },
+  "1680dcb30b39a58b60d54b272149dae2": {
+   "tz_id": 18645804,
+   "topicId": "cnm_034",
+   "qid": "cnm_034_q5",
+   "source": "初中数学总复习--整式",
+   "year": 2017,
+   "paper_type": "37",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 4.0,
+   "grade_id": 201,
+   "at": "2026-11-25T09:03:59.110813+00:00"
+  },
+  "18d6cbf8c51e01629db6474bcdfc909e": {
+   "tz_id": 18660180,
+   "topicId": "cnm_034",
+   "qid": "cnm_034_q6",
+   "source": "苏科新版七年级（下）中考题同步试卷：8.2 幂的乘方与积的乘方（02）",
+   "year": 2015,
+   "paper_type": "39",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 4.0,
+   "grade_id": 201,
+   "at": "2026-11-25T09:03:59.111557+00:00"
+  },
+  "2b48c1bcd21e82a516deb958e019b667": {
+   "tz_id": 21825171,
+   "topicId": "cnm_121",
+   "qid": "cnm_121_q8",
+   "source": "2018-2019学年江苏省淮安市金湖县八年级（上）期末数学试卷",
+   "year": 2019,
+   "paper_type": "34",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 1.0,
+   "grade_id": 301,
+   "at": "2026-11-25T09:04:02.353240+00:00"
+  },
+  "31e7f375c11a7758e28ef9e1aaa7262c": {
+   "tz_id": 34904165,
+   "topicId": "cnm_h261",
+   "qid": "cnm_h261_q5",
+   "source": "2024-2025学年广东省深圳市宝安区五年级（上）第一次月考数学试卷",
+   "year": 2025,
+   "paper_type": "36",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 2.0,
+   "grade_id": 30300,
+   "at": "2026-11-25T09:04:17.943392+00:00"
+  },
+  "7bcabb82abc868aa3e288119e2790f57": {
+   "tz_id": 37243430,
+   "topicId": "cnm_h261",
+   "qid": "cnm_h261_q6",
+   "source": "2021-2022学年河南省三门峡市义马市五年级（下）期末数学试卷",
+   "year": 2022,
+   "paper_type": "34",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 3.0,
+   "grade_id": 30300,
+   "at": "2026-11-25T09:04:17.943812+00:00"
+  },
+  "c6243ac2f5e795b4b55bba6cc1647888": {
+   "tz_id": 39598072,
+   "topicId": "cnm_p024",
+   "qid": "cnm_p024_q7",
+   "source": "人教版一年级下册《第1单元 认识图形（二）》2024年单元达标测试卷（1）",
+   "year": 2024,
+   "paper_type": "37",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 3.0,
+   "grade_id": 112,
+   "at": "2026-11-25T09:04:19.043280+00:00"
+  },
+  "facc0757f912e43e9a76bde9df2067b0": {
+   "tz_id": 41266661,
+   "topicId": "cnm_p024",
+   "qid": "cnm_p024_q8",
+   "source": "2023-2024学年广东省汕头市潮阳区一年级（下）期末数学试卷",
+   "year": 2024,
+   "paper_type": "34",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 2.0,
+   "grade_id": 112,
+   "at": "2026-11-25T09:04:19.043776+00:00"
   }
  },
  "runs": [
@@ -9711,6 +9867,19 @@
     "choice-dup": 2
    },
    "quota_remaining": 3
+  },
+  {
+   "at": "2026-11-25T09:04:22.469735+00:00",
+   "budget": 145,
+   "spent": 146,
+   "imported": 13,
+   "skipped": {
+    "latex-array": 6,
+    "type:多选题": 3,
+    "no-explanation": 22,
+    "choice-dup": 2
+   },
+   "quota_remaining": 4
   }
  ]
 }
