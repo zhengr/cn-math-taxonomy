@@ -10091,6 +10091,150 @@
    "tz_difficulty": 3.0,
    "grade_id": 152,
    "at": "2026-11-27T09:00:15.371426+00:00"
+  },
+  "fb463cea8c3f9923d2508c5d7da345e4": {
+   "tz_id": 41281853,
+   "topicId": "cnm_h255",
+   "qid": "cnm_h255_q7",
+   "source": "2021-2022学年河南省信阳市商城县四年级（下）开学数学试卷",
+   "year": 2022,
+   "paper_type": "37",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 2.0,
+   "grade_id": 30300,
+   "at": "2026-11-28T08:20:02.690130+00:00"
+  },
+  "b47dcc51a1cd7775fdac5058bb34fc19": {
+   "tz_id": 22818809,
+   "topicId": "cnm_037",
+   "qid": "cnm_037_q7",
+   "source": "2019-2020学年河北省石家庄市新乐市七年级（上）期末数学试卷",
+   "year": 2020,
+   "paper_type": "34",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 1.0,
+   "grade_id": 201,
+   "at": "2026-11-28T08:20:13.084544+00:00"
+  },
+  "994cb2cb021f677906d46bcbf5ce78fb": {
+   "tz_id": 22826471,
+   "topicId": "cnm_037",
+   "qid": "cnm_037_q8",
+   "source": "2019-2020学年广西钦州市浦北县七年级（上）期末数学试卷",
+   "year": 2020,
+   "paper_type": "34",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 1.0,
+   "grade_id": 201,
+   "at": "2026-11-28T08:20:13.085505+00:00"
+  },
+  "4a7732821acd25ea8d34a4d13bedec93": {
+   "tz_id": 27052030,
+   "topicId": "cnm_h262",
+   "qid": "cnm_h262_q7",
+   "source": "晋江市英林中学高三数学周考试卷2021-08-13",
+   "year": 2021,
+   "paper_type": "38",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 2.0,
+   "grade_id": 30300,
+   "at": "2026-11-28T08:20:31.991159+00:00"
+  },
+  "8d7e27453ac5a6f1260253f02a4c44ba": {
+   "tz_id": 27193848,
+   "topicId": "cnm_h262",
+   "qid": "cnm_h262_q8",
+   "source": "开平市第一中学高二数学周考试卷2020-05-26",
+   "year": 2020,
+   "paper_type": "38",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 2.0,
+   "grade_id": 30300,
+   "at": "2026-11-28T08:20:31.992020+00:00"
+  },
+  "e79ad6a9e53d95a4482641a1be753933": {
+   "tz_id": 33292362,
+   "topicId": "cnm_039",
+   "qid": "cnm_039_q5",
+   "source": "2023-2024学年湖南省衡阳三中七年级（下）月考数学试卷（3月份）-自定义类型",
+   "year": 2024,
+   "paper_type": "36",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 3.0,
+   "grade_id": 201,
+   "at": "2026-11-28T08:20:38.106352+00:00"
+  },
+  "0278c4c6ed0f2d3a1307e0881a1f1063": {
+   "tz_id": 33403529,
+   "topicId": "cnm_039",
+   "qid": "cnm_039_q6",
+   "source": "2023-2024学年甘肃省定西市临洮县洮阳中学集团校七年级（上）月考数学试卷（12月份）",
+   "year": 2024,
+   "paper_type": "36",
+   "tz_question_type": "单选题",
+   "tz_difficulty": 2.0,
+   "grade_id": 201,
+   "at": "2026-11-28T08:20:38.107049+00:00"
+  },
+  "b66650aed11162709f3bbf0e02639d9d": {
+   "tz_id": 18290345,
+   "topicId": "cnm_h183",
+   "qid": "cnm_h183_q7",
+   "source": "2017-2018学年西藏林芝二中高二（上）期末数学试卷（理科）",
+   "year": 2018,
+   "paper_type": "34",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 1.0,
+   "grade_id": 30100,
+   "at": "2026-11-28T08:20:42.629532+00:00"
+  },
+  "abe99692b6bf8aad6b6247838a91d9e1": {
+   "tz_id": 18303055,
+   "topicId": "cnm_h183",
+   "qid": "cnm_h183_q8",
+   "source": "2017-2018学年天津市和平区高二（上）期末数学试卷（文科）",
+   "year": 2018,
+   "paper_type": "34",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 1.0,
+   "grade_id": 30100,
+   "at": "2026-11-28T08:20:42.630503+00:00"
+  },
+  "fcca77bdb698fa3a07848c16ddef02b2": {
+   "tz_id": 24213115,
+   "topicId": "cnm_p027",
+   "qid": "cnm_p027_q5",
+   "source": "2018-2019学年人教版数学一年级下册2.3 十几减5、4、3、2练习卷",
+   "year": 2019,
+   "paper_type": "37",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 3.0,
+   "grade_id": 112,
+   "at": "2026-11-28T08:20:45.271529+00:00"
+  },
+  "e25ee92c7704373f63bb2d458bc8a04e": {
+   "tz_id": 21061912,
+   "topicId": "cnm_p227",
+   "qid": "cnm_p227_q5",
+   "source": "2015-2016学年贵州省毕节地区纳雍县鸿巍智翔学校三年级（上）期末数学试卷（A）",
+   "year": 2016,
+   "paper_type": "34",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 1.0,
+   "grade_id": 131,
+   "at": "2026-11-28T08:20:47.910706+00:00"
+  },
+  "f806b381c49a5fb83aa4162c48cc0cbe": {
+   "tz_id": 24080874,
+   "topicId": "cnm_p227",
+   "qid": "cnm_p227_q6",
+   "source": "人教版小学数学三年级上册期末测试卷（一）",
+   "year": 2018,
+   "paper_type": "34",
+   "tz_question_type": "选择题",
+   "tz_difficulty": 1.0,
+   "grade_id": 131,
+   "at": "2026-11-28T08:20:47.911443+00:00"
   }
  },
  "runs": [
@@ -10372,6 +10516,20 @@
     "latex-array": 6,
     "type:多选题": 1,
     "choice-dup": 2
+   },
+   "quota_remaining": 4
+  },
+  {
+   "at": "2026-11-28T08:20:49.669027+00:00",
+   "budget": 145,
+   "spent": 146,
+   "imported": 12,
+   "skipped": {
+    "no-explanation": 25,
+    "latex-array": 4,
+    "type:多选题": 4,
+    "choice-dup": 2,
+    "choice-arity": 1
    },
    "quota_remaining": 4
   }
